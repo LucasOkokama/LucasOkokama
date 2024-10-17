@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
