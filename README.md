@@ -5,7 +5,7 @@
 
 
 
-<table width="970px">
+<table width="870px">
 <tr>
 
 
@@ -22,7 +22,9 @@
 <td>
 <table>
 
-<tr wdith="500px">
+<tr>
+<br>
+<br>
 A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
 <br><br>
 
@@ -34,7 +36,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </tspan>
 </tr>
 
-<tr width="500px">
+<tr>
 <h2 align="left">Frameworks</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
@@ -44,7 +46,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 
 
 <tr>
-<td width="250px">
+<td width="50%">
 <h2 align="left">Techs</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -61,7 +63,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </div>
 </td>
 
-<td width="250px">
+<td width="50%">
 <h2 align="left" >Tools</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
