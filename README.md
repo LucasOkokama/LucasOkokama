@@ -22,10 +22,10 @@
 
 
 
-<td width="600px">
+<td>
 <table>
 
-<tr width="600px">
+<tr width="500px">
 <h2 align="left">Frameworks</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
@@ -35,7 +35,7 @@
 
 
 <tr>
-<td width="300px">
+<td width="250px">
 <h2 align="left">Techs</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -52,7 +52,7 @@
 </div>
 </td>
 
-<td width="300px">
+<td width="250px">
 <h2 align="left" >Tools</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
