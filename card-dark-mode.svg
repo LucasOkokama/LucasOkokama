@@ -4,8 +4,6 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="370px" height="530px" fill="rgba(0,0,0,0)" rx="15"/>
-
 <text x="15" y="30" fill="#c9d1d9">
   <tspan x="15" y="30">                @%%%@@%%%              </tspan>
   <tspan x="15" y="50">              %%%%%%%%%%%%% %@        </tspan>
@@ -33,8 +31,5 @@ text, tspan {white-space: pre;}
   <tspan x="15" y="490">%%%%%%@%##%%##-:::::::::-#%%%#*%@%%%@%</tspan>
   <tspan x="15" y="510">%%@%%%@%#%%###=:......::-###%###%@%%@%</tspan>
 </text>
-
-
-
 
 </svg>

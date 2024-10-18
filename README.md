@@ -5,14 +5,14 @@
 
 
 
-<table style="background-color: #161b22">
+<table width="970px">
 <tr>
 
-<td>
-<div class="ascii-info">
+<td width="370px">
+<div>
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
-<img alt="Teste" src="card-dark-mode.svg">
+<img alt="ascii-profile" src="card-dark-mode.svg">
 </picture>
 </a>
 </div>
