@@ -5,10 +5,6 @@
 
 
 <style>
-.ascii-info{
-    background-color: #161b22;
-    display: flex;
-}
 
 .info-box{
 
@@ -27,9 +23,9 @@ h2{
 
 
 
-<div class="ascii-info" >
+<div class="ascii-info" style="background-color: #161b22, display: flex;">
 <div id="ascii-box">
-<a href="#">
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="Teste" src="card-dark-mode.svg">
 </picture>
