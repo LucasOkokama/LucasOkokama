@@ -4,18 +4,61 @@
  -->
 
 
-</style>
 
+<table style="background-color: #161b22">
+<tr>
 
-<div id="container">
-<div id="main-info">
-|
+<td>
 <div class="ascii-info">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="Teste" src="card-dark-mode.svg">
 </picture>
 </a>
+</div>
+</td>
+
+<td>
+<h2 align="left">Techs</h2>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+</div>
+<h2 align="left">Frameworks</h2>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+</div>
+<h2 align="left" >Tools</h2>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+</div>
+</td>
+</tr>
+</table>
+
+
+<div id="container">
+<div id="main-info">
+|
 
 </div>
 
