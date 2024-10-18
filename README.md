@@ -1,7 +1,7 @@
 <!-- 
-    Profile README inspired by Andrew6rant's
-    You can check the original at: https://github.com/Andrew6rant/Andrew6rant
- -->
+Profile README inspired by Andrew6rant's
+You can check the original at: https://github.com/Andrew6rant/Andrew6rant
+-->
 
 
 
@@ -9,7 +9,7 @@
 <tr>
 
 
-<td width="500px">
+<td width="50%">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg" width="100%">
@@ -23,6 +23,7 @@
 <table>
 
 <tr>
+<td>
 <br>
 <br>
 A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
@@ -32,20 +33,24 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 🎥 Interstelar, One Piece & Mandalorian <br>
 ❄️ 10°C isnt really cold <br>
 💭 INFJ <br>
-
-</tspan>
+</td>
 </tr>
 
 <tr>
+<td>
 <h2 align="left">Frameworks</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
 </div>
+</td>
 </tr>
 
 
 <tr>
+<table>
+<tr>
+
 <td width="50%">
 <h2 align="left">Techs</h2>
 <div align="left">
@@ -77,8 +82,10 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
 </td>
-</tr>
 
+</tr>
+</table>
+</tr>
 </table>
 </td>
 
@@ -88,16 +95,14 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 
 
 
-
-
 <div id="plots">
-    <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=My%20Stats%20on%20Github" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="190" alt="languages graph"  />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=My%20Stats%20on%20Github" height="190" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="190" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
 
 
