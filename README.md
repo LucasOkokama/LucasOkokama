@@ -1,26 +1,11 @@
-<!-- 
-Profile README inspired by Andrew6rant's
-You can check the original at: https://github.com/Andrew6rant/Andrew6rant
--->
 
 
-<div width="800px">
+
+
+<img alt="ascii-profile" src="card-dark-mode.svg" width="50%">
+
+
 <table width="100%">
-<tr>
-
-
-<td width="50%">
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
-<picture>   
-<img alt="ascii-profile" src="card-dark-mode.svg" width="100%">
-</picture>
-</a>
-</td>
-
-
-
-<td width="50%">
-<table width="400px">
 
 <tr>
 <td>
@@ -89,12 +74,8 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </table>
 </tr>
 </table>
-</td>
 
 
-</tr>
-</table>
-</div>
 
 
 <div id="plots">
