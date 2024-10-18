@@ -5,7 +5,7 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 
 
 
-<table>
+<table width="800px">
 <tr>
 
 
@@ -19,8 +19,8 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 
 
 
-<td>
-<table>
+<td width="50%">
+<table width="400px">
 
 <tr>
 <td>
