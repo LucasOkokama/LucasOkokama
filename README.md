@@ -18,7 +18,7 @@
 </div>
 </td>
 
-<td>
+<td width="600px">
 <h2 align="left">Techs</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
