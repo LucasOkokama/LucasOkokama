@@ -35,7 +35,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 <tr>
 
 <td width="33%">
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -51,14 +51,14 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </td>
 
 <td width="33%">
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 </td>
 
 <td width="33%">
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
