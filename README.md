@@ -10,11 +10,12 @@
 
 
 
-<br>
-<br>
-<p>
+<br><br>
+
+<h4>
 A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
-</p>
+</h4>
+
 <br><br>
 
 💻 Front-end dev <br>
@@ -74,6 +75,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </table>
 </div>
 
+<br><br>
 
 
 
