@@ -5,7 +5,7 @@
 
 
 
-<table width="100%">
+<table width="970px">
 <tr>
 
 
