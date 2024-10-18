@@ -9,7 +9,7 @@
 <tr>
 
 
-<td width="370px">
+<td width="45%">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg">
