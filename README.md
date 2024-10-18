@@ -9,10 +9,10 @@
 <tr>
 
 
-<td width="50%">
+<td width="100%">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
-<img alt="ascii-profile" src="card-dark-mode.svg">
+<img alt="ascii-profile" src="card-dark-mode.svg" width="100%">
 </picture>
 </a>
 </td>
