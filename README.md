@@ -5,7 +5,7 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 
 
 
-<table width="970px" style="table-layout: fixed">
+<table width="970px">
 <tr>
 
 
@@ -26,7 +26,9 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 <td>
 <br>
 <br>
+<p>
 A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
+</p>
 <br><br>
 
 💻 Front-end dev <br>
