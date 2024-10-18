@@ -4,17 +4,6 @@
  -->
 
 
-<style>
-
-.info-box{
-
-}
-
-h2{
-    border-bottom: 0;
-    margin-bottom: 0;
-}
-
 </style>
 
 
@@ -22,8 +11,8 @@ h2{
 <div id="main-info">
 
 
-
-<div class="ascii-info" style="background-color: #161b22, display: flex;">
+|
+<div class="ascii-info">
 <div id="ascii-box">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
@@ -34,7 +23,10 @@ h2{
 
 
 <div class="info-box">
-
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|----------|----------|----------|
+| Dado 1   | Dado 2   | Dado 3   |
+| Dado 4   | Dado 5   | Dado 6   |
 
 <h2 align="left">Techs</h2>
 <div align="left">
