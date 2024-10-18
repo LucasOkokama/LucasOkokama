@@ -10,20 +10,29 @@
 
 
 <td width="370px">
-<div>
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg">
 </picture>
 </a>
-</div>
 </td>
-
 
 
 
 <td>
 <table>
+
+<tr wdith="500px">
+A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
+<br><br>
+
+💻 Front-end dev <br>
+🎥 Interstelar, One Piece & Mandalorian <br>
+❄️ 10°C isnt really cold <br>
+💭 INFJ <br>
+
+</tspan>
+</tr>
 
 <tr width="500px">
 <h2 align="left">Frameworks</h2>
