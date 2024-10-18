@@ -2,11 +2,16 @@
 
 
 
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+<picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg" width="50%">
+</picture>
+</a>
 
 
-<table width="100%">
 
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
 <br>
