@@ -23,7 +23,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 💭 INFJ <br>
 
 
-<div align="center">
+<p>
 <table width="100%">
 <tr>
 <th> <h3 align="center" border="0">Techs</h2> </th>
@@ -72,7 +72,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 
 </tr>
 </table>
-</div>
+<p>
 
 
 
