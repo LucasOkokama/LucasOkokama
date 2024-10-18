@@ -5,7 +5,7 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 
 
 
-<table width="970px">
+<table>
 <tr>
 
 
