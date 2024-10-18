@@ -10,10 +10,6 @@
 
 
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td>
 <br>
 <br>
 <p>
@@ -25,26 +21,19 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 🎥 Interstelar, One Piece & Mandalorian <br>
 ❄️ 10°C isnt really cold <br>
 💭 INFJ <br>
-</td>
-</tr>
-
-<tr>
-<td>
-<h2 align="left">Frameworks</h2>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-<img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-</div>
-</td>
-</tr>
 
 
-<tr>
+
 <table>
 <tr>
+<th> <h2 align="left">Techs</h2> </th>
+<th> <h2 align="left">Frameworks</h2> </th>
+<th> <h2 align="left" >Tools</h2> </th>
+</tr>
 
-<td width="50%">
-<h2 align="left">Techs</h2>
+<tr>
+
+<td width="33%">
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
 <img width="12" />
@@ -60,8 +49,14 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 </div>
 </td>
 
-<td width="50%">
-<h2 align="left" >Tools</h2>
+<td width="33%">
+<div align="left">
+<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+<img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+</div>
+</td>
+
+<td width="33%">
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 <img width="12" />
@@ -77,8 +72,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 
 </tr>
 </table>
-</tr>
-</table>
+
 
 
 
