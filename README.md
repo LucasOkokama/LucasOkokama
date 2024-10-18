@@ -4,8 +4,8 @@ You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 -->
 
 
-
-<table width="800px">
+<div width="800px">
+<table width="100%">
 <tr>
 
 
@@ -94,7 +94,7 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 
 </tr>
 </table>
-
+</div>
 
 
 <div id="plots">
