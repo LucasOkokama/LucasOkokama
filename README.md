@@ -5,7 +5,7 @@
 
 
 
-<table width="970px">
+<table width="970px" style="table-layout: fixed">
 <tr>
 
 
