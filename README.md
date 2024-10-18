@@ -9,7 +9,7 @@
 <tr>
 
 
-<td width="50%">
+<td width="370px">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg" width="100%">
@@ -19,13 +19,13 @@
 
 
 
-<td width="50%">
+<td>
 <table>
 
 <tr>
 <br>
 <br>
-
+A Tech student passionate about movies, series, and anime. He loves everything related to Technology and Design, especially photography, video editing, interior decoration, and front-end. He loves dogs and cold weather, and his favorite food is potatoes!
 <br><br>
 
 💻 Front-end dev <br>
