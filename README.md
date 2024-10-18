@@ -8,6 +8,7 @@
 <table width="970px">
 <tr>
 
+
 <td width="370px">
 <div>
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
@@ -18,7 +19,23 @@
 </div>
 </td>
 
+
+
+
 <td width="600px">
+<table>
+
+<tr width="600px">
+<h2 align="left">Frameworks</h2>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
+<img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+</div>
+</tr>
+
+
+<tr>
+<td width="300px">
 <h2 align="left">Techs</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -33,12 +50,9 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
 </div>
-<h2 align="left">Frameworks</h2>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-</div>
+</td>
+
+<td width="300px">
 <h2 align="left" >Tools</h2>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
@@ -53,14 +67,13 @@
 </div>
 </td>
 </tr>
+
 </table>
+</td>
 
 
-<div id="container">
-<div id="main-info">
-|
-
-</div>
+</tr>
+</table>
 
 
 
