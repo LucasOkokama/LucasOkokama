@@ -85,9 +85,9 @@ A Tech student passionate about movies, series, and anime. He loves everything r
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="190" alt="languages graph"  />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
-</div>
+</div> -->
 
 
 
