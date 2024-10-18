@@ -5,11 +5,11 @@
 
 
 
-<table width="870px">
+<table width="100%">
 <tr>
 
 
-<td width="45%">
+<td width="50%">
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
 <img alt="ascii-profile" src="card-dark-mode.svg">
