@@ -27,6 +27,7 @@
 <tr>
 <td width="33%">
 <div align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
