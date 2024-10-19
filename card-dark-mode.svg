@@ -64,7 +64,7 @@ text, tspan {white-space: pre;}
   <tspan x="420" y="470" class="keyColor">"food"</tspan> : <tspan x="500" y="470" class="valueColor">"potato potato."</tspan>,
   <tspan x="420" y="495" class="keyColor">"animals"</tspan> : [<tspan x="540" y="495" class="valueColor">"Dog", "Cat", "Penguin", "Capybara"</tspan> ],
   <tspan x="420" y="520" class="keyColor">"center-div"</tspan> : <tspan x="552" y="520" class="valueColor">"IMPOSSIBLE."</tspan>, <tspan x="695" y="520" class="commentColor">#not kidding, impossible.</tspan>
-  <tspan x="385" y="535" class="curlyBrackets">}</tspan> 
+  <tspan x="385" y="540" class="curlyBrackets">}</tspan> 
 
 
 
