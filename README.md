@@ -1,8 +1,12 @@
 <!-- 
-    Profile README inspired by Andrew6rant's
-    You can check the original at: https://github.com/Andrew6rant/Andrew6rant
- -->
+    Profile README inspired by: 
+    
+    > Andrew6rant's
+        You can check the original at: https://github.com/Andrew6rant/Andrew6rant
 
+    > pvhuwung's
+        You can check the original at: https://github.com/pvhuwung/pvhuwung
+ -->
 
 
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
@@ -11,9 +15,7 @@
 </picture>
 </a>
 
-
 <br><br>
-
 
 <div align="center">
 <table width="100%">
@@ -22,9 +24,7 @@
 <th> <h3 align="center">Frameworks</h2> </th>
 <th> <h3 align="center" >Tools</h2> </th>
 </tr>
-
 <tr>
-
 <td width="33%">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
@@ -35,14 +35,12 @@
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 </div>
 </td>
-
 <td width="33%">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
 </div>
 </td>
-
 <td width="33%">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
@@ -52,30 +50,22 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 </td>
-
 </tr>
 </table>
 </div>
 
-
 <br>
-
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&icon_color=C1268B&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&hide_border=true&custom_title=Languages&layout=compact&langs_count=9&card_width=329" height=184 alt="languages graph"/>
 </div>
 
-
 <br><br><br><br>
-
 
 <h1> 📁 Portfolio </h1>
 
-
-
 <br><br><br><br>
-
 
 <div align="center">
 <img src="profile-pfp.png" width="232x">
@@ -90,4 +80,4 @@
 <pre>
 \\  Yokoso watashi no Soul Societyie  //
 </pre>
-</div>x'
+</div>
