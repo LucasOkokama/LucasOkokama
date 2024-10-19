@@ -66,12 +66,28 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="194" alt="languages graph"  />
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
-</div>
-
 
 <br><br><br><br>
 
 
 <h1> 📁 Portfolio </h1>
+
+
+
+<br><br><br><br>
+
+
+<div align="center">
+<img src="profile-pfp.png" width="232x">
+<img src="https://streak-stats.demolab.com?user=LucasKazuhiro&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5&order=3" height="240" alt="streak graph"  />
+</div>
+
+<br><br>
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl2c3plbHVtejZmNGsyOTlwbWt5Ynd5M3dqNzhxdXZzeW5qZzU4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" width="970" alt="anime gif">
+
+<div width="400px" align=center>
+<pre>
+Yokoso watashi no Soul Society
+</pre>
+</div>

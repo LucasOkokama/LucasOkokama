@@ -61,10 +61,10 @@ text, tspan {white-space: pre;}
   <tspan x="420" y="370" class="keyColor">"location"</tspan>   : <tspan x="556" y="370" class="valueColor">"Vinland"</tspan>, <tspan x="660" y="370" class="commentColor">#You have no enemies</tspan>
   <tspan x="420" y="395" class="keyColor">"mbti"</tspan>       : <tspan x="556" y="395" class="valueColor">"INFJ"</tspan>,
   <tspan x="420" y="420" class="keyColor">"design"</tspan>     : <tspan x="556" y="420" class="valueColor">"design is my passion"</tspan>,
-  <tspan x="420" y="445" class="keyColor">"nostalgia"</tspan>  : <tspan x="556" y="445" class="valueColor">"pure good feelings"</tspan>, <tspan x="750" y="445" class="commentColor">#minecraft aventureiros</tspan>
+  <tspan x="420" y="445" class="keyColor">"nostalgia"</tspan>  : <tspan x="556" y="445" class="valueColor">"minecraft"</tspan>, <tspan x="680" y="445" class="commentColor">#pure good feelings</tspan>
   <tspan x="420" y="470" class="keyColor">"food"</tspan>       : <tspan x="556" y="470" class="valueColor">"potato potato."</tspan>,
-  <tspan x="420" y="495" class="keyColor">"animals"</tspan>    : [<tspan x="556" y="495" class="valueColor">"Dog", "Cat", "Penguin", "Capybara"</tspan> ],
-  <tspan x="420" y="520" class="keyColor">"center-div"</tspan> : <tspan x="556" y="520" class="valueColor">"IMPOSSIBLE."</tspan>, <tspan x="695" y="520" class="commentColor">#not kidding, impossible.</tspan>
+  <tspan x="420" y="495" class="keyColor">"animals"</tspan>    : [<tspan x="562" y="495" class="valueColor">"Dog", "Cat", "Penguin", "Capybara"</tspan>],
+  <tspan x="420" y="520" class="keyColor">"center-div"</tspan> : <tspan x="556" y="520" class="valueColor">"IMPOSSIBLE."</tspan> <tspan x="687" y="520" class="commentColor">#not kidding, impossible.</tspan>
   <tspan x="385" y="545" class="curlyBrackets">}</tspan> 
 
 
