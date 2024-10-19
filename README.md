@@ -24,9 +24,11 @@
 <th> <h3 align="center">Frameworks</h2> </th>
 <th> <h3 align="center" >Tools</h2> </th>
 </tr>
+
 <tr>
+
 <td width="33%">
-<div align="center">
+<div align="left">
 <br>
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
@@ -34,27 +36,20 @@
 <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-
 </div>
 </td>
+
 <td width="33%">
-<div align="center">
+<div align="left">
+<br>
 <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
 </div>
 </td>
+
 <td width="33%">
-<div align="center">
+<div align="left">
+<br>
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
@@ -62,6 +57,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 </td>
+
 </tr>
 </table>
 </div>
@@ -69,6 +65,7 @@
 <br>
 
 <div align="center">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&icon_color=C1268B&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&hide_border=true&custom_title=Languages&layout=compact&langs_count=9&card_width=329" height=184 alt="languages graph"/>
 </div>
