@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=EF8539&icon_color=C1268B&hide_border=true" height="194" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&icon_color=C1268B&hide_border=true" height="194" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2&custom_title=Languages" height="194" alt="languages graph"/>
 </div>
 
