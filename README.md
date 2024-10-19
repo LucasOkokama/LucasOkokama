@@ -62,8 +62,8 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&icon_color=C1268B&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats" height="194" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&hide_border=true&custom_title=Languages&layout=compact&langs_count=6" height="194" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&icon_color=C1268B&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height="185" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=2B213A&title_color=FF3068&text_color=ff9e52&hide_border=true&custom_title=Languages&layout=compact&langs_count=6" height="185" alt="languages graph"/>
 </div>
 
 
@@ -88,6 +88,6 @@
 
 <div align=center>
 <pre>
-\\  Yokoso watashi no Soul Society  //
+\\  Yokoso watashi no Soul Societyie  //
 </pre>
-</div>
+</div>x'
