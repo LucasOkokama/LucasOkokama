@@ -84,9 +84,9 @@
 
 <br><br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl2c3plbHVtejZmNGsyOTlwbWt5Ynd5M3dqNzhxdXZzeW5qZzU4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91P04R5jGNGZZIDm0N/giphy.gif" width="970" alt="anime gif">
+<img src="anime.gif" width="970" alt="anime gif">
 
-<div width="400px" align=center>
+<div align=center>
 <pre>
 Yokoso watashi no Soul Society
 </pre>
