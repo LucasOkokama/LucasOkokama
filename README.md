@@ -28,12 +28,12 @@
 <td width="33%">
 <div align="left">
 
-<a href=""><img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  /></a>
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
+<img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+<img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
 </div>
 </td>
 
@@ -47,13 +47,9 @@
 <td width="33%">
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
 </div>
 </td>
