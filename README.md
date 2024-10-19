@@ -30,7 +30,7 @@
 
 <a href=""><img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  /></a>
 <a href=""><img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  /></a>
 <a href=""><img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  /></a>
 <a href=""><img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  /></a>
 <a href=""><img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  /></a>
