@@ -70,8 +70,8 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Stats" height="192" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="192" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Stats" height="194" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=Languages" height="194" alt="languages graph"  />
 </div>
 
 <!-- <div align="center">
