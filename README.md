@@ -77,6 +77,4 @@
 <h1> 📁 Portfolio </h1>
 
 
-<audio controls>
-<source src="music.mp3" type="audio/mpeg" >
-</audio>
+<video src="music.mp3" width="275" height="40" controls></video>
