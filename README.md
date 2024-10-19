@@ -27,38 +27,38 @@
 
 <td width="33%">
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
 </div>
 </td>
 
 <td width="33%">
 <div align="left">
-<img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
-<img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+<img src="https://skillicons.dev/icons?i=angular" height="48" alt="angularjs logo"  />
+<img src="https://skillicons.dev/icons?i=spring" height="48" alt="spring logo"  />
 </div>
 </td>
 
 <td width="33%">
 <div align="left">
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+<img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
 </div>
 </td>
 
