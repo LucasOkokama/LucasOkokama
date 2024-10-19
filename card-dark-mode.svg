@@ -51,7 +51,7 @@ text, tspan {white-space: pre;}
 
 
 
-  <tspan x="380" y="230">----------</tspan>
+  <tspan x="380" y="230">----  ----  ----  ----  ----  ----  ----  ----  ----  ----  ----</tspan>
 
   <tspan x="385" y="270" class="curlyBrackets">{</tspan> 
   <tspan x="420" y="295" class="keyColor">"main-role"</tspan> : <tspan x="542" y="295" class="valueColor">"Front-end dev"</tspan>, <tspan x="700" y="295" class="commentColor">#maybe a Full-stack soon?</tspan>
