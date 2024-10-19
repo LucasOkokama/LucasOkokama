@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="370px" height="530px" font-size="18px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="970px" height="530px" font-size="16px">
 <style>
+.curlyBrackets {fill: #ff0d65;}
+.keyColor {fill: #db96ff;}
+.valueColor {fill: #ffaf69;}
+.commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
 </style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9">
   <tspan x="15" y="30">                @%%%@@%%%              </tspan>
@@ -30,6 +36,27 @@ text, tspan {white-space: pre;}
   <tspan x="15" y="470">%%@%%@@%%%#@%*=+*#####+:-*%%%##%%@%%@%</tspan>
   <tspan x="15" y="490">%%%%%%@%##%%##-:::::::::-#%%%#*%@%%%@%</tspan>
   <tspan x="15" y="510">%%@%%%@%#%%###=:......::-###%###%@%%@%</tspan>
+</text>
+
+<text x="390" y="30" fill="#c9d1d9">
+  <tspan x="390" y="30">  </tspan>
+  <tspan x="390" y="50">A Tech student passionate about movies, series, and anime.</tspan>
+  <tspan x="390" y="75">He loves everything related to Technology and Design,</tspan>
+  <tspan x="390" y="100">especially photography, video editing, interior decoration,</tspan>
+  <tspan x="390" y="125">and front-end. He loves dogs and cold weather, and his</tspan>
+  <tspan x="390" y="150">favorite food is potatoes!</tspan>
+
+  <tspan x="390" y="180">----------</tspan>
+
+  <tspan x="395" y="210" class="curlyBrackets">{</tspan> 
+  <tspan x="420" y="230" class="keyColor">"main-role"</tspan> : <tspan x="542" y="230" class="valueColor">"Front-end dev"</tspan>,   <tspan x="710" y="230" class="commentColor"># maybe a Full-stack soon?</tspan>
+  <tspan x="420" y="255" class="keyColor">"temprature"</tspan> : <tspan x="552" y="255" class="valueColor">"10°C isnt really cold"</tspan>,
+  <tspan x="420" y="280" class="keyColor">"loves"</tspan> : [<tspan x="524" y="280" class="valueColor">"Interstelar", "One Piece", "Mandalorian"</tspan> ],
+  
+
+
+
+
 </text>
 
 </svg>
