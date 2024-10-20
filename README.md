@@ -66,10 +66,11 @@
 <h1 align=left> 📁 Projects </h1>
 <h2> 🤖 Codes</h2>
 <div align="center">
+
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
 </a>
-&emsp;
+ㅤ
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
 </a>
