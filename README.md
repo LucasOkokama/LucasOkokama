@@ -73,9 +73,9 @@
 <br><br><br><br>
 
 <h1> 📁 Portfolio </h1>
-
-[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=fff&theme=react&show_icons=false)](https://github.com/LucasKazuhiro/EarthWise-website)
-
+<a href="https://github.com/LucasKazuhiro/EarthWise-website">
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=fff&theme=react&show_icons=false" width="350" align="center" />
+</a>
 
 <br><br><br><br>
 
