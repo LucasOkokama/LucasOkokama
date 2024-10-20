@@ -17,7 +17,7 @@
 
 <br><br>
 
-<h1 align="center"> 🤓 Skills </h1>
+<h1 align="left"> 🤓 Skills </h1>
 <div align="center">
 <table width="100%">
 <tr>
@@ -29,8 +29,9 @@
 <tr>
 
 <td width="33%">
-<div align="left">
+<div align="center">
 <br>
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -38,6 +39,7 @@
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="python logo"  />
+</div>
 </div>
 </td>
 
