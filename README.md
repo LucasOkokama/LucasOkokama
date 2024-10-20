@@ -73,13 +73,15 @@
 <br><br><br><br>
 
 <h1> 📁 Portfolio </h1>
+<div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="280" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="370" align="center" />
 </a>
 
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="280" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="370" align="center" />
 </a>
+</div>
 
 <br><br><br><br>
 
