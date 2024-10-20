@@ -28,7 +28,7 @@
 
 <tr>
 
-<td width="37.5">
+<td width="37.5%">
 <div align="center">
 <br>
 <div>
