@@ -64,7 +64,7 @@
 </table>
 </div>
 
-<div align="center">
+<div align="left">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=d8691d&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=d8691d&hide_border=true&custom_title=Languages&layout=compact&langs_count=6&card_width=329" height=184 alt="languages graph"/>
@@ -72,20 +72,20 @@
 
 <br><br><br><br>
 
-<h1 align=center> 📁 Portfolio </h1>
+<h1 align=left> 📁 Portfolio </h1>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="380" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="400" align="center" />
 </a>
 
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="380" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="400" align="center" />
 </a>
 </div>
 
 <br><br><br><br>
 
-<h1 align=center> 🔥 Thanks for visiting </h1>
+<h1 align=left> 🔥 Thanks for visiting </h1>
 <div align="center">
 <img src="profile-pfp.png" width="232x">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="240" alt="streak graph"  />
