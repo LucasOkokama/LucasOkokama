@@ -19,7 +19,7 @@
 
 <h1 align="left"> 🤓 Skills </h1>
 <div align="center">
-<table width="845px">
+<table style="width='845px'">
 <tr>
 <th> <h3 align="center" top="0">Techs</h2> </th>
 <th> <h3 align="center">Frameworks</h2> </th>
