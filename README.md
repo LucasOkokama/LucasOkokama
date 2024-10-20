@@ -31,7 +31,7 @@
 <td width="33%">
 <div align="center">
 <br>
-<div align="left">
+<div>
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -40,11 +40,10 @@
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="python logo"  />
 </div>
-</div>
 </td>
 
 <td width="33%">
-<div align="left">
+<div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
@@ -52,7 +51,7 @@
 </td>
 
 <td width="33%">
-<div align="left">
+<div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
