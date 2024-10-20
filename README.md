@@ -64,7 +64,7 @@
 
 <br><br><br><br>
 
-<h1 align=left> 📁 Portfolio </h1>
+<h1 align=left> 📁 Projects </h1>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
