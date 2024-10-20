@@ -37,6 +37,7 @@
 <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=c" height="50" alt="python logo"  />
 </div>
 </td>
 
