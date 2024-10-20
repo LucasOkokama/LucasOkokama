@@ -91,7 +91,6 @@
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br><br><br><br>
