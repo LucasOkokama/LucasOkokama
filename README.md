@@ -66,8 +66,8 @@
 
 <div align="center">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ff7100&icon_color=C1268B&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ff7100&hide_border=true&custom_title=Languages&layout=compact&langs_count=6&card_width=329" height=184 alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ff9a47&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ff9a47&hide_border=true&custom_title=Languages&layout=compact&langs_count=6&card_width=329" height=184 alt="languages graph"/>
 </div>
 
 <br><br><br><br>
