@@ -28,7 +28,7 @@
 
 <tr>
 
-<td width="33%">
+<td width="37.5">
 <div align="center">
 <br>
 <div>
@@ -42,7 +42,7 @@
 </div>
 </td>
 
-<td width="33%">
+<td width="25%">
 <div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
@@ -50,7 +50,7 @@
 </div>
 </td>
 
-<td width="33%">
+<td width="37.5%">
 <div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
