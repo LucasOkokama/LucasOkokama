@@ -17,6 +17,7 @@
 
 <br><br>
 
+<h1> 🤓 Skills </h1>
 <div align="center">
 <table width="100%">
 <tr>
@@ -76,6 +77,7 @@
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=c16323&icon_color=fff&theme=react&show_icons=false&text_color=cacaca" width="420" align="center" />
 </a>
+
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=c16323&icon_color=fff&theme=react&show_icons=false&text_color=cacaca" width="420" align="center" />
 </a>
