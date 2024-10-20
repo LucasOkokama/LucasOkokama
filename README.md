@@ -17,7 +17,7 @@
 
 <br><br>
 
-<h1> 🤓 Skills </h1>
+<h1 align="center"> 🤓 Skills </h1>
 <div align="center">
 <table width="100%">
 <tr>
@@ -72,20 +72,20 @@
 
 <br><br><br><br>
 
-<h1> 📁 Portfolio </h1>
+<h1 align=center> 📁 Portfolio </h1>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="370" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="380" align="center" />
 </a>
 
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="370" align="center" />
+  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="380" align="center" />
 </a>
 </div>
 
 <br><br><br><br>
 
-<h1> 🔥 Thanks for visiting </h1>
+<h1 align=center> 🔥 Thanks for visiting </h1>
 <div align="center">
 <img src="profile-pfp.png" width="232x">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="240" alt="streak graph"  />
