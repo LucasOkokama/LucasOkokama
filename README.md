@@ -56,7 +56,6 @@
 </td>
 </tr>
 </table>
-
 <div align="left">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=d8691d&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=184 alt="stats graph"/>
