@@ -24,9 +24,7 @@
 <th> <h3 align="center">Frameworks</h2> </th>
 <th> <h3 align="center" >Tools</h2> </th>
 </tr>
-
 <tr>
-
 <td width="37.5%">
 <div align="center">
 <br>
@@ -38,7 +36,6 @@
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="python logo"  />
 </td>
-
 <td width="25%">
 <div align="center">
 <br>
@@ -46,7 +43,6 @@
 <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
 </div>
 </td>
-
 <td width="37.5%">
 <div align="center">
 <br>
@@ -57,7 +53,6 @@
 <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
 </td>
-
 </tr>
 </table>
 
