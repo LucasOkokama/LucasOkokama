@@ -18,8 +18,7 @@
 <br><br>
 
 <h1 align="left"> 🤓 Skills </h1>
-<div align="center">
-<table style="width='845px'">
+<table>
 <tr>
 <th> <h3 align="center" top="0">Techs</h2> </th>
 <th> <h3 align="center">Frameworks</h2> </th>
@@ -63,7 +62,6 @@
 
 </tr>
 </table>
-</div>
 
 <div align="left">
 <br>
