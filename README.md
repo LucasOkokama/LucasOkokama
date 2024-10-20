@@ -20,7 +20,7 @@
 <h1 align="left"> 🤓 Skills </h1>
 <table>
 <tr>
-<th> <h3 align="center" top="0">Techs</h2> </th>
+<th> <h3 align="center">Techs</h2> </th>
 <th> <h3 align="center">Frameworks</h2> </th>
 <th> <h3 align="center" >Tools</h2> </th>
 </tr>
@@ -30,7 +30,6 @@
 <td width="37.5%">
 <div align="center">
 <br>
-<div>
 <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
 <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
@@ -38,7 +37,6 @@
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="python logo"  />
-</div>
 </td>
 
 <td width="25%">
