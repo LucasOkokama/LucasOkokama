@@ -19,7 +19,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        🤓 Skills
+        🤓 My Technical Skills
       </h1>
     </summary>
   </ul>
@@ -129,7 +129,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        📁 Projects
+        📁 Some of my Projects
       </h1>
     </summary>
   </ul>
