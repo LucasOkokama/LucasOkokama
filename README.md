@@ -187,7 +187,7 @@
 
 <div align=center>
 
-```haskell
+```redcode
 Yokoso watashi no Soul Societyie
 ```
 
