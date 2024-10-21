@@ -131,7 +131,7 @@
 <img src="https://c.tenor.com/mEJxSIEOYggAAAAC/tenor.gif" alt="anime-sm-gif" align="center" width="177"/>
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
