@@ -102,11 +102,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=200 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8&card_width=329" height=296 alt="languages graph"/>
 
-<br>
-
-#
-
-<br>
+<br><br>
 
 <div id="toc">
   <ul align="left" style="list-style: none">
@@ -118,10 +114,7 @@
   </ul>
 </div>
 
-<h2>
-  🤖 Codes
-</h2>
-
+<h2>🤖 Codes</h2>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca" align="left"/>
@@ -143,15 +136,8 @@
 <br>
 <br>
 
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h2>
-        ✨ Design
-      </h2>
-    </summary>
-  </ul>
-</div>
+
+<h2>✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
