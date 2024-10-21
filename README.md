@@ -128,7 +128,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph" align="left"/>
 <br>
-<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="center"/>
+<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="left"/>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="center"/>
 </div>
 
