@@ -187,7 +187,7 @@
 
 <div align=center>
 
-```redcode
+```brainfuck
 Yokoso watashi no Soul Societyie
 ```
 
