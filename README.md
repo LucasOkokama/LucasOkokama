@@ -95,7 +95,6 @@
   <td><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/></td>
   <td><img src="" height="40" alt=""/></td>
   <td><img src="" height="40" alt=""/></td>
-
 </tr>
 </table>
 <br>
