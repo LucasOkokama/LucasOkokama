@@ -127,8 +127,8 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph" align="left"/>
-<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="left" width="210"/>
-<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="right" width="150"/>
+<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="left" width="206"/>
+<img src="https://tenor.com/pt-BR/view/pokemon-squirtle-sunglasses-deal-with-it-gif-5634922" alt="watching_count" align="right"/>
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br>
