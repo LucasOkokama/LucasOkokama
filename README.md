@@ -45,7 +45,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        Framewworks
+        Frameworks & Libraries
       </h2>
     </summary>
   </ul>
@@ -91,8 +91,8 @@
 <tr>
   <td><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></td>
-  <td><img height="36" width="36"  alt=""/></td>
-  <td><img height="36" width="36" alt=""/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo"/></td>
+  <td><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></td>
 </tr> 
 </table>
 <br>
