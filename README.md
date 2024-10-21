@@ -132,6 +132,7 @@
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="right"/>
 </div>
 
+<img align="center">
 <br>
 <br>
 <br>
