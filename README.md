@@ -216,8 +216,7 @@
 <img src="assets/gifs/anime.gif" width="970" alt="anime gif">
 
 <div align=center>
-
-```brainfuck
+<pre>
 `Yokoso watashi no Soul Societyie`
-```
+</pre>
 </div>
