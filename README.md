@@ -122,7 +122,7 @@
 <img src="assets/anime-pallette/anime-pallette.png" width=410 align="right">
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graphh"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph"/>
 
 <br><br><br><br><br>
 
@@ -176,7 +176,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&description_lines_count=2&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
 </a>
 </div>
 <div align="left">
