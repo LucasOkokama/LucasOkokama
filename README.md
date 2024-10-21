@@ -150,7 +150,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=#9198A1&text_color=bababa" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=#9198A1&text_color=bababa" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=#9198A1&text_color=b0b0b0" align="center"/>
 </a>
 </div>
 
@@ -161,7 +161,7 @@
 <h2>✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cccccc"/>
 </a>
 </div>
 
