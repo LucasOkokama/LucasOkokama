@@ -93,8 +93,8 @@
 <tr>
   <td><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></td>
-  <td><img src="" height="36" width="36"  alt=""/></td>
-  <td><img src="" height="36" width="36" alt=""/></td>
+  <td><img height="36" width="36"  alt=""/></td>
+  <td><img height="36" width="36" alt=""/></td>
 </tr> 
 </table>
 <br>
