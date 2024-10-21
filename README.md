@@ -110,6 +110,7 @@
 </tr>
 <tr>
   <td><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></td>
 </tr>
 </table>
 </div>
@@ -161,9 +162,23 @@
 <h2>✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
 </a>
 </div>
+
+<br>
+<br>
+
+<h2>✨ Simple</h2>
+<div align="left">
+<a href="https://github.com/LucasKazuhiro/Java_Console_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
+</a>
+<a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
+</a>
+</div>
+
 
 <br><br><br><br><br>
 
