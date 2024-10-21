@@ -11,7 +11,7 @@
 
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
 <picture>   
-<img alt="ascii-profile" src="card-dark-mode.svg" width="100%">
+<img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
 </picture>
 </a>
 
@@ -118,9 +118,9 @@
 </td>
 </tr>
 </table>
-<img src="profile-pfp.png" width="280px" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=188 alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8&card_width=329" height=279 alt="languages graph"/>
+<img src="assets/anime-pallette/anime-pallette.png" width="280px" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=172 alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8&card_width=329" height=255 alt="languages graph"/>
 
 <br><br><br><br><br>
 
@@ -176,13 +176,13 @@
   </ul>
 </div>
 <div align="center">
-<img src="profile-pfp.png" width="232x">
+<img src="assets/pfp/pfp.png" width="232x">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="240" alt="streak graph"  />
 </div>
 
 <br>
 
-<img src="anime.gif" width="970" alt="anime gif">
+<img src="assets/gifs/anime.gif" width="970" alt="anime gif">
 
 <div align=center>
 <pre>
