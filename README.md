@@ -187,7 +187,7 @@
 
 <div align=center>
 
-```console
+```haskell
 Yokoso watashi no Soul Societyie
 ```
 
