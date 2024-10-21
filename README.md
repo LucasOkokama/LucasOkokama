@@ -90,7 +90,7 @@
 <div align="center">
 <br>
 <table>
-<tr>
+<tr valign="top">
   <td><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></td>
   <td><img height="36" width="36"  alt=""/></td>
