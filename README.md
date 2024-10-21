@@ -70,13 +70,20 @@
 <td width="37.5%">
 <div align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=c" height="40" alt="python logo"  />
+<table>
+<tr>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></td>
+</tr>
+
+</tr>
+</table>
 </div>
 </td>
 <td width="25%">
