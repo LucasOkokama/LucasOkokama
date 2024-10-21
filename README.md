@@ -111,7 +111,15 @@
 
 <br><br><br><br>
 
-<h1 align=left> 🔥 Thanks for visiting </h1>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        🔥 Thanks for visiting
+      </h1>
+    </summary>
+  </ul>
+</div>
 <div align="center">
 <img src="profile-pfp.png" width="232x">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="240" alt="streak graph"  />
