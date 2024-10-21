@@ -103,11 +103,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8&card_width=329" height=296 alt="languages graph"/>
 
 <br>
-<br>
 
 #
 
-<br>
 <br>
 
 <div id="toc">
