@@ -187,7 +187,7 @@
 
 <div align=center>
 
-```yaml
+```console
 Yokoso watashi no Soul Societyie
 ```
 
