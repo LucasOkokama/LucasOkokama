@@ -67,7 +67,7 @@
 </th>
 </tr>
 <tr>
-<td width="37.5%">
+<td>
 <div align="center">
 <br>
 <table>
@@ -87,14 +87,14 @@
 </table>
 </div>
 </td>
-<td width="25%">
+<td>
 <div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
 <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 </td>
-<td width="37.5%">
+<td>
 <div align="center">
 <br>
 <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
