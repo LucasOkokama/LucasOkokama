@@ -1,11 +1,10 @@
 <!-- 
     Profile README inspired by: 
-    
-    > Andrew6rant's
-        You can check the original at: https://github.com/Andrew6rant/Andrew6rant
+      > Andrew6rant         : https://github.com/Andrew6rant/Andrew6rant
+      > pvhuwung            : https://github.com/pvhuwung/pvhuwung
+      > TryKatChup          : https://github.com/TryKatChup/TryKatChup
+      > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername
 
-    > pvhuwung's
-        You can check the original at: https://github.com/pvhuwung/pvhuwung
  -->
 
 
@@ -119,7 +118,7 @@
 </tr>
 </table>
 
-<a hred="https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">
+<a href="https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">
 <img src="assets/anime-pallette/anime-pallette.png" width="320px" align="right">
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=176 alt="stats graph"/>
