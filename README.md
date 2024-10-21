@@ -81,6 +81,7 @@
   <td><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/></td>
 </tr>
 </table>
 </div>
@@ -92,6 +93,9 @@
 <tr>
   <td><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"/></td>
   <td><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/></td>
+  <td><img src="" height="40" alt=""/></td>
+  <td><img src="" height="40" alt=""/></td>
+
 </tr>
 </table>
 <br>
