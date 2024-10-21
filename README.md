@@ -60,10 +60,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&card_width=1" height=200 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8&card_width=329" height=296 alt="languages graph"/>
 
-
 <br><br><br><br>
 
-<h1 align=left> 📁 Projects </h1>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        📁 Projects 
+      </h1>
+    </summary>
+  </ul>
+</div>
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
