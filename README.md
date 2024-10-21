@@ -123,6 +123,9 @@
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph"/>
+<div align="right">
+<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" />
+</div>
 
 <br><br><br><br><br>
 
@@ -185,7 +188,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
 </a>
 </div>
-
 
 <br><br><br><br><br>
 
