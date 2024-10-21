@@ -64,7 +64,15 @@
 <br><br><br><br>
 
 <h1 align=left> 📁 Projects </h1>
-<h3> 🤖 Codes</h2>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h2>
+        🤖 Codes
+      </h2>
+    </summary>
+  </ul>
+</div>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca" align="left"/>
@@ -86,7 +94,15 @@
 <br>
 <br>
 
-<h3> ✨ Design</h2>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h2>
+        ✨ Design
+      </h2>
+    </summary>
+  </ul>
+</div>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
@@ -109,16 +125,4 @@
 <pre>
 \\  Yokoso watashi no Soul Societyie  //
 </pre>
-</div>
-
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Hi, I'm Aidan
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-      </h1>
-    </summary>
-  </ul>
 </div>
