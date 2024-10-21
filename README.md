@@ -126,7 +126,7 @@
 <img src="assets/anime-pallette/anime-pallette.png" width=410 height="250" align="center">
 </a>
 </div>
-
+<br>
 <div align="center">
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph" align="left"/>
