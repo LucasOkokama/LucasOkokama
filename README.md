@@ -169,7 +169,7 @@
 <br>
 <br>
 
-<h2>🚀 Learnings (simple projects to study)</h2>
+<h2>🚀 Learnings <h4>(simple projects to study)</h4></h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
