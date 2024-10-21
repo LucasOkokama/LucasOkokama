@@ -117,15 +117,11 @@
     </summary>
   </ul>
 </div>
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h2>
-        🤖 Codes
-      </h2>
-    </summary>
-  </ul>
-</div>
+
+<h2>
+  🤖 Codes
+</h2>
+
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca" align="left"/>
