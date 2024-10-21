@@ -162,7 +162,7 @@
 <h2>✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&description_lines_count=2&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&description_lines_count=2&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left" />
 </a>
 </div>
 
@@ -171,20 +171,14 @@
 
 <h2>🚀 Learnings </h2>
 <p>Basic and simple projects for studying and doing experimental stuff</p>
-<div align="center"> 
-<a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
-</a>
-<a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
-</a>
-</div>
-<!-- <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
+<div align="center">
+<a href="https://github.com/LucasKazuhiro/Java_Console_Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
-</a> -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
+</a>
+</div>
 
 
 <br><br><br><br><br>
