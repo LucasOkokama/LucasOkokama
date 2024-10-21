@@ -17,7 +17,15 @@
 
 <br><br>
 
-<h1 align="left"> 🤓 Skills </h1>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        🤓 Skills
+      </h1>
+    </summary>
+  </ul>
+</div>
 <table>
 <tr>
 <th> <h3 align="center">Techs</h2> </th>
@@ -63,7 +71,7 @@
 <br><br><br><br>
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         📁 Projects 
