@@ -26,11 +26,24 @@
     </summary>
   </ul>
 </div>
+
 <table>
 <tr>
-<th> <h3 align="center">Techs</h2> </th>
-<th> <h3 align="center">Frameworks</h2> </th>
-<th> <h3 align="center" >Tools</h2> </th>
+
+<th> 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h2>
+        Techs
+      </h2>
+    </summary>
+  </ul>
+</div>
+</th>
+
+<th> <h2 align="center">Frameworks</h2> </th>
+<th> <h2 align="center" >Tools</h2> </th>
 </tr>
 <tr>
 <td width="37.5%">
