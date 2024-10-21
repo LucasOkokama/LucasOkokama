@@ -66,23 +66,22 @@
 <h1 align=left> 📁 Projects </h1>
 <h2> 🤖 Codes</h2>
 <div align="center">
-
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
 </a>
-ㅤ
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
 </a>
 </div>
 <br>
-<div align="center">
+<div align="center"> 
 <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&description_lines_count=3&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
 </a>
 </div>
 <br>
@@ -90,7 +89,7 @@
 <h2> ✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=fff&show_icons=false&text_color=cacaca" width="410" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=7a60b7&text_color=cacaca"/>
 </a>
 </div>
 
