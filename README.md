@@ -185,8 +185,11 @@
 
 <img src="assets/gifs/anime.gif" width="970" alt="anime gif">
 
-<div align=center>
+<!-- <div align=center>
 <pre>
 \\  Yokoso watashi no Soul Societyie  //
 </pre>
-</div>
+</div> -->
+```console
+                                  Yokoso watashi no Soul Societyie
+```
