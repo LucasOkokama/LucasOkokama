@@ -160,7 +160,7 @@
 
 
 <h2>✨ Design</h2>
-<div align="left">
+<div align="center">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&description_lines_count=2&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left" />
 </a>
