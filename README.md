@@ -72,25 +72,26 @@
 <br>
 <table>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /></td>
-  <td><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" /></td>
-  <td><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></td>
-  <td><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/></td>
 </tr>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></td>
-  <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" /></td>
-  <td><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></td>
+  <td><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"/></td>
 </tr>
 </table>
 </div>
 </td>
 <td>
 <div align="center">
+<br>
 <table>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  /></td>
-  <td><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  /></td>
+  <td><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/></td>
 </tr>
 </table>
 <br>
@@ -99,11 +100,17 @@
 <td>
 <div align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<table>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/></td>
+  <td><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/></td>
+</tr>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/></td>
+</tr>
+</table>
 </div>
 </td>
 </tr>
