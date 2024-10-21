@@ -89,9 +89,13 @@
 </td>
 <td>
 <div align="center">
+<table>
+<tr>
+  <td><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  /></td>
+  <td><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  /></td>
+</tr>
+</table>
 <br>
-<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 </td>
 <td>
