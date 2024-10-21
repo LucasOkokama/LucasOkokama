@@ -123,9 +123,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=1a1424&title_color=ff3068&text_color=ffaf69&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
 </div>
 <div align="right">
-<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" />
+<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="right"/>
 <a href="https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">
-<img src="assets/anime-pallette/anime-pallette.png" width=410 height="250">
+<img src="assets/anime-pallette/anime-pallette.png" width=410 height="250" align="right">
 </a>
 </div>
 
