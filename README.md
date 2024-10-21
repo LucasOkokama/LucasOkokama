@@ -217,7 +217,7 @@
 
 <div align=center>
 
-```brainfuck 
+```brainfuck
 Yokoso watashi no Soul Societyie
 ```
 </div>
