@@ -134,7 +134,7 @@
 
 
 <br>
-<p align="center"> <p>
+<img align="center"/>
 <br>
 
 <div id="toc">
