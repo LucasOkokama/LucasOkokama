@@ -119,14 +119,14 @@
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=c1c1c1&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
 <a href="https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">
 <img src="assets/anime-pallette/anime-pallette.png" width="410" align="center">
 </a>
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=e0e0e0&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&hide_rank=true" height=145 alt="stats graph" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=cecece&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs" height=145 alt="stats graph" align="left"/>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="center" width="210"/>
 <img src="https://c.tenor.com/mEJxSIEOYggAAAAC/tenor.gif" alt="anime-sm-gif" align="center" width="177"/>
 </div>
