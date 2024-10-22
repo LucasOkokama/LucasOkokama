@@ -217,7 +217,6 @@
 
 <img src="assets/gifs/anime.gif" width="970" alt="anime gif">
 
-<div align=center>
 
 > [!WARNING]
 > Man cannot obtain anything without first sacrificing something. In order to
@@ -227,4 +226,3 @@
 >
 > ― ***Alphonse Elric***
 
-</div>
