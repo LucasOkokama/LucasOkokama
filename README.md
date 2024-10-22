@@ -179,8 +179,7 @@
 <br>
 <br>
 
-<h2>🚀 Learnings </h2>
-<p>Basic and simple projects for studying and doing experimental stuff</p>
+<h2>🚀 Learnings (experimental stuff)</h2>
 <br>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
@@ -219,6 +218,6 @@
 
 <div align=center>
 <pre>
-\ Yokoso watashi no Soul Societyie /
+\\  Yokoso watashi no Soul Societyie  //
 </pre>
 </div>
