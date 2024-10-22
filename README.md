@@ -70,15 +70,15 @@
 <br>
 <table>
 <tr>
-  <td><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></td>
-  <td><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></td>
+  <td><a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a></td>
+  <td><a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a></td>
   <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a></td>
-  <td><img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/></td>
+  <td><a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/></a></td>
 </tr>
 <tr>
   <td><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"/></a></td>
   <td><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"/></a></td>
-  <td><img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"/></td>
+  <td><a href="#"><img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"/></a></td>
   <td><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"/></a></td>
 </tr>
 </table>
