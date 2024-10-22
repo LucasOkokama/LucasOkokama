@@ -126,8 +126,9 @@
 </div>
 <br>
 <div align="center">
+<img align="left" width=22 height=1></img>
+<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=cecece&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&text_bold=false&hide_title=true&hide_rank=true" height=150 alt="stats graph" align="left"/>
 <img align="left" width=0 height=1></img>
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=cecece&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&text_bold=false&hide_title=true&hide_rank=true" height=115 alt="stats graph" align="left"/>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" align="left" width="200"/>
 <img src="https://c.tenor.com/mEJxSIEOYggAAAAC/tenor.gif" alt="anime-sm-gif" align="center" width="180"/>
 </div>
