@@ -29,9 +29,15 @@
 <tr>
 
 <th> 
-    <h2>
-      <h6>Techs</h6>
-    </h2>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h2>
+        Techs
+      </h2>
+    </summary>
+  </ul>
+</div>
 </th>
 
 <th> 
@@ -39,7 +45,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        <h6>Frameworks & Libraries</h6>
+        Frameworks & Libraries
       </h2>
     </summary>
   </ul>
