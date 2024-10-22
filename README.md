@@ -120,8 +120,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
-<a href="https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">
-<img src="assets/anime-pallette/anime-pallette.png" width="410" align="center">
+<a href="https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun">
+<img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center">
 </a>
 </div>
 <p></p>
@@ -207,8 +207,9 @@
   </ul>
 </div>
 <div align="center">
-<img src="assets/pfp/pfp.png" width="232x">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="240" alt="streak graph"  />
+<img src="assets/pfp/pfp.png" width="230" height="205">
+ &nbsp; &nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="205" alt="streak graph"  />
 </div>
 
 <br>
