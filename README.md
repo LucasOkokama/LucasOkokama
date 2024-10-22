@@ -4,8 +4,7 @@
       > pvhuwung            : https://github.com/pvhuwung/pvhuwung
       > TryKatChup          : https://github.com/TryKatChup/TryKatChup
       > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername
-      > avinal              : https://github.com/avinal
- -->
+-->
 
 
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
@@ -217,12 +216,8 @@
 
 <img src="assets/gifs/anime.gif" width="970" alt="anime gif">
 
-
-> [!IMPORTANT]
-> Man cannot obtain anything without first sacrificing something. In order to
-> obtain anything, something of equal value is required. That is
-> _Alchemy's Law of Equivalent Exchange_. At the time we believed that to be
-> the true way of the world.
->
-> ― ***Alphonse Elric***
-
+<div align=center>
+<pre>
+\\  Yokoso watashi no Soul Societyie  //
+</pre>
+</div>
