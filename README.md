@@ -179,7 +179,7 @@
 <br>
 <br>
 
-<h2>🚀 Learnings (experimental stuff)</h2>
+<h2>🚀 Learnings <span>(experimental stuff)</span></h2>
 <br>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
