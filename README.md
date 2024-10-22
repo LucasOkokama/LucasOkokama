@@ -131,7 +131,7 @@
 <img width=75 height=1></img>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" width="220"/>
 <img width=15 height=1></img>
-<img src="https://c.tenor.com/mEJxSIEOYggAAAAC/tenor.gif" alt="anime-sm-gif" width="175"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9xNmx3NnRoc3J3c2RiMTR4d3czeTZmYXB4OGppbmMzMXEwdmc0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" alt="anime-sm-gif" width="175"/>
 </div>
 
 <br><br><br><br><br><br>
