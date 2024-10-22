@@ -19,7 +19,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        🤓 My Technical Skills
+        <h6>🤓 My Technical Skills</h6>
       </h1>
     </summary>
   </ul>
@@ -33,7 +33,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        Techs
+        <h6>Techs</h6>
       </h2>
     </summary>
   </ul>
@@ -45,7 +45,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        Frameworks & Libraries
+        <h6>Frameworks & Libraries</h6>
       </h2>
     </summary>
   </ul>
