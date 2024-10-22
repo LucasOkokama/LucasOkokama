@@ -19,7 +19,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        <h6>🤓 My Technical Skills</h6>
+        🤓 My Technical Skills
       </h1>
     </summary>
   </ul>
@@ -29,15 +29,9 @@
 <tr>
 
 <th> 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h2>
-        <h6>Techs</h6>
-      </h2>
-    </summary>
-  </ul>
-</div>
+    <h2>
+      <h6>Techs</h6>
+    </h2>
 </th>
 
 <th> 
@@ -179,7 +173,7 @@
 <br>
 <br>
 
-<h2>🚀 Learnings <span>(experimental stuff)</span></h2>
+<h2>🚀 Learnings <h6>(experimental stuff)</h6></h2>
 <br>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
