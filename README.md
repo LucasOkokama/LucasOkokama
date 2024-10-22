@@ -121,7 +121,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
 <a href="https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun">
-<img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center">
+<img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center" alt="img-deco-pallette">
 </a>
 </div>
 <p></p>
@@ -148,19 +148,19 @@
 <h2>🤖 Codes</h2>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="EarthWise-website" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/loja-vinho">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="loja-vinho" align="center"/>
 </a>
 </div>
 <br>
 <div align="center"> 
 <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="anime-statistics-charts" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="filmes-statistics-charts" align="center"/>
 </a>
 </div>
 
@@ -171,7 +171,7 @@
 <h2>✨ Design</h2>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="wine-store-dsgn" />
 </a>
 </div>
 
@@ -182,16 +182,16 @@
 <h2>🚀 Learnings (experimental stuff)</h2>
 <div align="center">
 <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="Java_Console_Game" align="left"/>
 </a>
 <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="simple-crud-springboot-postman" align="center"/>
 </a>
 </div>
 <br>
 <div align="left">
 <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="study-simple-wishlist" />
 </a>
 </div>
 
