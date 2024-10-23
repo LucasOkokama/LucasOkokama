@@ -91,7 +91,7 @@
 <tr>
   <td><a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></a></td>
   <td><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></a></td>
-  <td><a hred="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo"/></a></td>
+  <td><a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo"/></a></td>
   <td><a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></a></td>
 </tr> 
 </table>
