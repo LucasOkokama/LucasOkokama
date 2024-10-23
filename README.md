@@ -119,7 +119,7 @@
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph1" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
 <a href="https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun">
 <img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center" alt="img-deco-pallette">
 </a>
