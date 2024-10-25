@@ -127,7 +127,9 @@
 <img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center" alt="img-deco-pallette">
 </a>
 </div>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LucasKazuhiro?theme=nord&font=Adamina&ext=activity)
+
 <p></p>
 <!-- <div align="left">
 <img width=5 height=1></img>
