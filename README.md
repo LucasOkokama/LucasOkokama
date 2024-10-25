@@ -127,6 +127,7 @@
 <img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center" alt="img-deco-pallette">
 </a>
 </div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/LucasKazuhiro?theme=nord&font=Adamina&ext=activity)
 <p></p>
 <!-- <div align="left">
 <img width=5 height=1></img>
@@ -134,7 +135,6 @@
 <img width=75 height=1></img>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" width="220"/>
 <img width=15 height=1></img>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9xNmx3NnRoc3J3c2RiMTR4d3czeTZmYXB4OGppbmMzMXEwdmc0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" alt="anime-sm-gif" width="175"/>
 </div> -->
 
 <br><br><br><br><br><br>
