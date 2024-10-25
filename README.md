@@ -33,7 +33,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        <kbd>Techs</kbd>
+        Techs
       </h2>
     </summary>
   </ul>
@@ -121,6 +121,7 @@
 </table>
 
 <div align="center">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true&pixelate_avatar=false">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/>
 <a href="https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun">
 <img src="assets/anime-pallette/anime-pallette.png" width="410" height="250" align="center" alt="img-deco-pallette">
