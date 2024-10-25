@@ -130,7 +130,7 @@
 
 <br><br>
 
-<img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=radical&font=Farro&ext=contest&border=0&radius=10" width="420" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=dark&font=Farro&ext=contest&border=0&radius=10" width="420" alt="LeetCode Stats">
 <p></p>
 <!-- <div align="left">
 <img width=5 height=1></img>
