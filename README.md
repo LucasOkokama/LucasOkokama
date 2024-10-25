@@ -25,7 +25,7 @@
   </ul>
 </div>
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true&pixelate_avatar=false">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true">
 <table>
 <tr>
 
