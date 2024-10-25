@@ -15,7 +15,6 @@
 
 <br><br>
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true&pixelate_avatar=false">
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -26,6 +25,7 @@
   </ul>
 </div>
 
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true&pixelate_avatar=false">
 <table>
 <tr>
 
