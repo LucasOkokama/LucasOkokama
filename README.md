@@ -128,14 +128,14 @@
 </a>
 </div>
 <p></p>
-<div align="left">
+<!-- <div align="left">
 <img width=5 height=1></img>
 <img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=cecece&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&text_bold=false&hide_title=true&hide_rank=true" height=150 alt="stats graph"/>
 <img width=75 height=1></img>
 <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" width="220"/>
 <img width=15 height=1></img>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9xNmx3NnRoc3J3c2RiMTR4d3czeTZmYXB4OGppbmMzMXEwdmc0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" alt="anime-sm-gif" width="175"/>
-</div>
+</div> -->
 
 <br><br><br><br><br><br>
 
