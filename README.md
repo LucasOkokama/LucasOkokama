@@ -128,7 +128,9 @@
 </a>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LucasKazuhiro?theme=dark&font=Syne%20Mono&ext=activity)
+<br><br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/LucasKazuhiro?theme=dark&font=Syne%20Mono&ext=activity&width=850)
 
 <p></p>
 <!-- <div align="left">
