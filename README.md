@@ -33,7 +33,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        Techs
+        <kbd>Techs</kbd>
       </h2>
     </summary>
   </ul>
