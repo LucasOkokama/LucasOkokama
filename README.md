@@ -130,7 +130,7 @@
 
 <br><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=dark&font=Farro&ext=activity&border=0&radius=12)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=dark&font=Farro&ext=contest&border=0&radius=10)
 
 <p></p>
 <!-- <div align="left">
