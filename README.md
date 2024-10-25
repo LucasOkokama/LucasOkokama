@@ -7,7 +7,7 @@
 -->
 
 
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
 <picture>   
 <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
 </picture>
@@ -91,7 +91,7 @@
 <tr>
   <td><a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></a></td>
   <td><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></a></td>
-  <td><a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="pandas logo"/></a></td>
+  <td><a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="36" alt="pandas logo"/></a></td>
   <td><a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></a></td>
 </tr> 
 </table>
@@ -111,6 +111,8 @@
 <tr>
   <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"/></a></td>
   <td><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></a></td>
+  <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="postman logo"/></a></td>
+
 </tr>
 </table>
 </div>
