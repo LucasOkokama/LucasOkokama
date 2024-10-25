@@ -130,7 +130,7 @@
 
 <br><br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/LucasKazuhiro?theme=dark&font=Syne%20Mono&ext=activity&width=850)
+<img src="assets/leetcode/leetcode.png">
 
 <p></p>
 <!-- <div align="left">
