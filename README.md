@@ -46,7 +46,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h2>
-        Frameworks & Libraries
+        Frameworks & Libs
       </h2>
     </summary>
   </ul>
