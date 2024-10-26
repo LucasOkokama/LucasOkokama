@@ -166,6 +166,7 @@
       <h1>
         📁 Some of my Projects
       </h1>
+      <br>
       <h6>Click the image for higher resolution!</h6>
     </summary>
   </ul>
