@@ -213,7 +213,7 @@
   </ul>
 </div>
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=dark&font=Farro&ext=activity&border=0&radius=12" height="390" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=dark&font=Farro&border=0&radius=12" height="220" alt="LeetCode Stats">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="220" alt="streak graph"  />
 </div>
