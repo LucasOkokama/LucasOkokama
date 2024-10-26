@@ -153,7 +153,7 @@
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
-<table border="0">
+<table>
   <!-- First row -->
   <tr>
     <td>
@@ -173,15 +173,13 @@
   <!-- Second row -->
   <tr>
     <td>
-      <img src="./assets/projects-previews/EarthWise-website-preview.png" width="400">     
       <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="anime-statistics-charts" align="left"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="anime-statistics-charts"/>
       </a>
     </td>
     <td>
-      <img src="./assets/projects-previews/loja-vinho-preview.png" width="400">    
       <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="filmes-statistics-charts" align="center"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="filmes-statistics-charts"/>
       </a>
     </td>
   </tr>
