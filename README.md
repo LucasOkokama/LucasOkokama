@@ -128,17 +128,7 @@
 </a>
 </div>
 
-<br><br>
-
-
-<p></p>
-<!-- <div align="left">
-<img width=5 height=1></img>
-<img src="https://github-readme-stats.vercel.app/api?username=LucasKazuhiro&show_icons=true&bg_color=0D1117&title_color=97D2BE&text_color=cecece&icon_color=a56bc1&hide_border=true&ring_color=FF3068&rank_icon=github&custom_title=Stats&hide=contribs&text_bold=false&hide_title=true&hide_rank=true" height=150 alt="stats graph"/>
-<img width=75 height=1></img>
-<img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" width="220"/>
-<img width=15 height=1></img>
-</div> -->
+<!-- <img src="https://widgetbite.com/stats/LucasKazuhiro" alt="watching_count" width="220"/> -->
 
 <br><br><br><br><br><br>
 
@@ -214,7 +204,8 @@
 </div>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="167" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord" height="167" alt="streak graph"  />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="167" alt="streak graph"  /> -->
 </div>
 
 <br>
