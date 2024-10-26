@@ -235,12 +235,12 @@
   <tr>
     <td>
       <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="Java_Console_Game" align="left"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="Java_Console_Game"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="simple-crud-springboot-postman" align="center"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="simple-crud-springboot-postman"/>
       </a>
     </td>
   </tr>
@@ -248,7 +248,7 @@
   <!-- Second row -->
   <tr>
     <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="study-simple-wishlist" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="study-simple-wishlist"/>
     </a>
   </tr>
 </table>
