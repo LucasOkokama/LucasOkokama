@@ -173,8 +173,9 @@
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
+
+<!-- First row -->
 <table>
-  <!-- First row -->
   <tr>
     <td>
       <img src="./assets/projects-previews/EarthWise-website-preview.png" width="400">
@@ -189,6 +190,8 @@
       </a>
     </td>
   </tr>
+</table>
+
   <!-- Second row
   <tr>
     <td>
@@ -204,7 +207,6 @@
       </a>
     </td>
   </tr> -->
-</table>
 
 
 <br><br><br>
