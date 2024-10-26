@@ -193,11 +193,13 @@
   <!-- Second row -->
   <tr>
     <td>
+      <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="400">
       <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
       </a>
     </td>
     <td>
+      <img src="./assets/projects-previews/filmes-statistics-charts-preview.png" width="400">
       <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
@@ -279,17 +281,13 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
   
-  <br><br>
+  <br>
   
   <img src="https://github-profile-trophy.vercel.app/?username=LucasKazuhiro&theme=juicyfresh&column=6&margin-w=12&margin-h=12&rank=-?&no-frame=true" width="970" alt="trophy graph"  /> 
 </div>
 
 
-
-
 <br>
-
-
 
 
 <!-- Gif final page -->
