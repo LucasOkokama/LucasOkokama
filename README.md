@@ -213,7 +213,7 @@
 <br><br><br>
 
 
-<!-- Projects subtitle (Design) -->
+<!-- Projects subtitle (Design). -->
 <h2>✨ Design</h2>
 <!-- First row -->
 <table>
