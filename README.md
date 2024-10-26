@@ -8,6 +8,10 @@
 -->
 
 
+
+
+
+
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
   <picture>   
@@ -15,7 +19,13 @@
   </picture>
 </a>
 
+
+
+
 <br><br>
+
+
+
 
 <!-- Tech Table -->
   <!-- Table Title -->
@@ -29,8 +39,10 @@
   </ul>
 </div>
 
+
 <!-- Profile stats with TV & Dithering effect -->
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true">
+
 
 <!-- Table Headers -->
 <table>
@@ -129,6 +141,7 @@
   </tr>
 </table>
 
+
 <!-- Most used languages & Palette anime picture -->
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasKazuhiro&bg_color=0D1117&title_color=97D2BE&text_color=cecece&hide_border=true&custom_title=Languages&layout=compact&langs_count=8" height=252 alt="languages graph" align="left"/> -->
@@ -138,7 +151,13 @@
   </a>
 </div>
 
+
+
+
 <br><br><br><br><br><br>
+
+
+
 
 <!-- Projects title -->
 <div id="toc">
@@ -150,6 +169,7 @@
     </summary>
   </ul>
 </div>
+
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
@@ -185,39 +205,61 @@
   </tr>
 </table>
 
+
 <br><br><br>
+
 
 <!-- Projects subtitle (Design) -->
 <h2>✨ Design</h2>
-<div align="left">
-  <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="wine-store-dsgn" />
-  </a>
-</div>
+<table>
+  <!-- First row -->
+  <tr>
+    <td>
+      <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="wine-store-dsgn" />
+      </a>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
+
 
 <br><br><br>
 
+
 <!-- Projects subtitle (Learnings) -->
 <h2>🚀 Learnings (experimental stuff)</h2>
-<div align="center">
-  <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="Java_Console_Game" align="left"/>
-  </a>
+<table>
+  <!-- First row -->
+  <tr>
+    <td>
+      <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="Java_Console_Game" align="left"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="simple-crud-springboot-postman" align="center"/>
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="simple-crud-springboot-postman" align="center"/>
-  </a>
-</div>
+  <!-- Second row -->
+  <tr>
+    <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="study-simple-wishlist" />
+    </a>
+  </tr>
+</table>
 
-<br>
 
-<div align="left">
-  <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="study-simple-wishlist" />
-  </a>
-</div>
 
-<br><br><br><br><br>
+
+<br><br><br><br><br><br>
+
+
+
 
 <!-- Thanks title -->
 <div id="toc">
@@ -230,6 +272,7 @@
   </ul>
 </div>
 
+
 <!-- Leetcode & Streak & Trophies -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
@@ -241,12 +284,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LucasKazuhiro&theme=juicyfresh&column=6&margin-w=12&margin-h=12&rank=-?&no-frame=true" width="970" alt="trophy graph"  /> 
 </div>
 
+
+
+
 <br>
+
+
+
 
 <!-- Gif final page -->
 <a href="https://myanimelist.net/anime/269/Bleach">
   <img src="assets/gif-final-page.gif" width="970" alt="anime gif">
 </a>
+
+
 <!-- some random Gif's quote -->
 <div align=center>
   <pre>\\  Yokoso watashi no Soul Societyie  //</pre>
