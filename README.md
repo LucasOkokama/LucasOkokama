@@ -225,9 +225,8 @@
       </a>
     </td>
     <td>
-      <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="400" height="420">
-      <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
+      <img width="400" height="420">
+      <a>
       </a>
     </td>
   </tr>
