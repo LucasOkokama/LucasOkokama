@@ -247,8 +247,6 @@
       </a>
     </td>
   </tr>
-
-  <!-- Second row -->
   <tr>
     <td>
       <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
