@@ -169,10 +169,9 @@
       <br>
     </summary>
   </ul>
-  <h6>Click the image for higher resolution!</h6>
 </div>
 
-
+<h6 align="center">Click the image for higher resolution!</h6>
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
 <!-- First row -->
