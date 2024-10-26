@@ -156,6 +156,7 @@
   <!-- First row -->
   <tr>
     <td>
+      <img src="./assets/projects-previews/EarthWise-website-preview.png" width="300px">
       <a href="https://github.com/LucasKazuhiro/EarthWise-website">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888" alt="EarthWise-website" align="left"/>
       </a>
