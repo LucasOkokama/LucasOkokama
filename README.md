@@ -253,6 +253,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
       </a>
     </td>
+    <td>
+      a
+    </td>
   </tr>
 </table>
 
