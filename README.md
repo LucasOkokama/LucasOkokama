@@ -19,7 +19,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        🤓 My Technical Skills
+        <img src="https://media.tenor.com/5fMeMMchIzoAAAAi/smiley-emoji.gif"> My Technical Skills
       </h1>
     </summary>
   </ul>
