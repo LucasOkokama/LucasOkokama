@@ -172,7 +172,7 @@
 
 
 <!-- Projects subtitle (Codes) -->
-<h2>🤖 Codes</h2>
+<h2>🤖 Codes <h6>(Click on the image to open it in a higher resolution)</h6></h2>
 <!-- First row -->
 <table>
   <tr>
