@@ -205,7 +205,9 @@
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="167" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=LucasKazuhiro&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&background=1a1424&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="167" alt="streak graph"  /> -->
+
 </div>
 
 <br>
