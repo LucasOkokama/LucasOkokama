@@ -189,7 +189,6 @@
       </a>
     </td>
   </tr>
-  <br>
   <!-- Second row -->
   <tr>
     <td>
