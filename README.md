@@ -192,7 +192,8 @@
   </tr>
 </table>
 
-  <!-- Second row
+<!-- Second row -->
+<table>
   <tr>
     <td>
       <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="400">
@@ -206,7 +207,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
     </td>
-  </tr> -->
+  </tr>
+</table>
 
 
 <br><br><br>
