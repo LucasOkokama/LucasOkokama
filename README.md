@@ -202,10 +202,10 @@
     </summary>
   </ul>
 </div>
-<br>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=d200ff" height="167" alt="streak graph"  />
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=LucasKazuhiro&theme=juicyfresh&column=6&margin-w=12&margin-h=12&rank=-?&no-frame=true" width="970" alt="trophy graph"  /> 
 </div>
 <br>
