@@ -172,14 +172,14 @@
 
 
 <!-- Projects subtitle (Codes) -->
-<h2>🤖 Codes <h6>(Click on the image to open it in a higher resolution)</h6></h2>
+<h2>🤖 Codes</h2>
 <!-- First row -->
 <table>
   <tr>
     <td width="50%">
       <img src="./assets/projects-previews/EarthWise-website-preview.png" width="400" height="210">
       <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" text="Click the image for higher resolution!" alt="EarthWise-website"/>
       </a>
     </td>
     <td width="50%">
