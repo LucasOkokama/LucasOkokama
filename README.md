@@ -169,11 +169,11 @@
       <h1>
         📁 Some of my Projects
       </h1>
-      <h5>
+      <p>
         Click on the image to access the project site (if available). GitHub's hosting service works with static websites, <br>
         so various features will not be present, especially backend parts. To access the complete project, click on the card <br>
         (below the image) and clone the repository.
-      </h5>
+      </p>
     </summary>
   </ul>
 </div>
