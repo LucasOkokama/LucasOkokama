@@ -179,7 +179,9 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+      <a href="https://lucaskazuhiro.github.io/EarthWise-website-host/">
+        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+      </a>
       <a href="https://github.com/LucasKazuhiro/EarthWise-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
       </a>
