@@ -170,14 +170,15 @@
         📁 Some of my Projects
       </h1>
 
-      > [!TIP]
-      > Click on the image to access the project site (if available). GitHub's hosting service
-      > works with static websites, so various features will not be present, especially backend parts.
-      > To access the complete project, click on the card (below the image) and clone the repository.
       
   </summary>
   </ul>
 </div>
+
+> [!TIP]
+> Click on the image to access the project site (if available). GitHub's hosting service
+> works with static websites, so various features will not be present, especially backend parts.
+> To access the complete project, click on the card (below the image) and clone the repository.
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
