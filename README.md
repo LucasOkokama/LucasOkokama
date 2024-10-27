@@ -176,11 +176,11 @@
 </div>
 
 <div align="center" width="40%">
-<em>
+<small>
 <b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
 works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts. <br>
 To access the complete project, <b>click on the card</b> (below the image) and clone the repository.
-</em>
+</small>
 </div>
 
 <!-- Projects subtitle (Codes) -->
