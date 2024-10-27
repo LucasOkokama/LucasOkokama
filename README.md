@@ -177,10 +177,11 @@
 
 <div align="center" width="40%">
 
-> <b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
-> works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts. <br>
-> To access the complete project, <b>click on the card</b> (below the image) and clone the repository.
-
+<h6>
+<b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
+works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts. <br>
+To access the complete project, <b>click on the card</b> (below the image) and clone the repository.
+</h6>
 </div>
 
 <!-- Projects subtitle (Codes) -->
@@ -296,7 +297,7 @@
 </div>
 
 
-<!-- Leetcode & Streak & Trophies -->
+<!-- Leetcode & Streak -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
