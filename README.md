@@ -177,8 +177,8 @@
 <!-- Projects warning text -->
 <div align="center">  
 <p>
-    <b><i>Click on the image</i></b> to access the project site (if available). GitHub's hosting service
-    works with static websites, so various features <b><i>will not be present</i></b>, especially backend parts.
+    <b><i>Click on the image</i></b> to access the project site (if available). GitHub's hosting service<br>
+    works with static websites, so various features <b><i>will not be present</i></b>, especially backend parts.<br>
     To access the <b><i>complete project</i></b>, click on the card (below the image) and <b><i>clone the repository</i></b>.
 </p>
 </div>
