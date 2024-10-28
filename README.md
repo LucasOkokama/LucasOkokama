@@ -173,14 +173,13 @@
   </ul>
 </div>
 
-<div>
-  <img width="30%" height="1px">
+<pre>
   <blockquote>
     <b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
     works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts. <br>
     To access the complete project, <b>click on the card</b> (below the image) and clone the repository.
   </blockquote>
-</div>
+</pre>
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
