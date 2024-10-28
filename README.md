@@ -174,6 +174,7 @@
 </div>
 
 
+<!-- Projects warning text -->
 <div align="center">
     
 ```brainfuck
@@ -300,7 +301,7 @@
 
 <!-- Leetcode & Streak -->
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=12" height="167" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=7" height="167" alt="LeetCode Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
 </div>
 
