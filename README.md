@@ -173,11 +173,17 @@
   </ul>
 </div>
 
+
+<div align="center">
+    
+```brainfuck
+    Click on the image to access the project site (if available). GitHub's hosting service
+    works with static websites, so various features will not be present, especially backend parts.
+    To access the complete project, click on the card (below the image) and clone the repository.
 ```
-    <mark>Click on the image</mark> to access the project site (if available). GitHub's hosting service
-    works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts.
-    To access the complete project, <b>click on the card</b> (below the image) and clone the repository.
-```
+
+</div>
+
 
 <!-- Projects subtitle (Codes) -->
 <h2>🤖 Codes</h2>
