@@ -153,7 +153,7 @@
     <img src="assets/anime-palette/anime-palette.png" width="286" height="306" align="center" alt="image decoration palette">
   </a>
 
-  <br><br><br>
+  <br><br>
   
   <!--START_SECTION:langAllTimeHours-->
 
