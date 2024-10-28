@@ -173,9 +173,8 @@
   </ul>
 </div>
 
-<img width="30%" height="1px">
-
 <div>
+  <img width="30%" height="1px">
   <blockquote>
     <b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
     works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts. <br>
