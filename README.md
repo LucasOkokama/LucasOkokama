@@ -175,14 +175,12 @@
 
 
 <!-- Projects warning text -->
-<div align="center">
-    
-```brainfuck
-    <Click on the image> to access the project site (if available). GitHub's hosting service
-    works with static websites, so various features <will not be present>, especially backend parts.
-    To access the <complete project>, click on the card (below the image) and <clone the repository>.
-```
-
+<div align="center">  
+<p>
+    <b><i>Click on the image</i></b> to access the project site (if available). GitHub's hosting service
+    works with static websites, so various features <b><i>will not be present</i></b>, especially backend parts.
+    To access the <b><i>complete project</i></b>, click on the card (below the image) and <b><i>clone the repository</i></b>.
+</p>
 </div>
 
 
