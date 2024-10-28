@@ -153,8 +153,8 @@
     <img src="assets/anime-palette/anime-palette.png" width="286" height="306" align="center" alt="image decoration palette">
   </a>
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  <!--START_SECTION:langAllTimeHours-->
+  <!--END_SECTION:langAllTimeHours-->
 </div>
 
 
