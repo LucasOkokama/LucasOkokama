@@ -3,8 +3,9 @@
       > Andrew6rant         : https://github.com/Andrew6rant/Andrew6rant
       > pvhuwung            : https://github.com/pvhuwung/pvhuwung
       > TryKatChup          : https://github.com/TryKatChup/TryKatChup
-      > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername
-      > ValentineFernandes  : https://github.com/ValentineFernandes
+      > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername/AnOrdinaryUsername
+      > ValentineFernandes  : https://github.com/ValentineFernandes/ValentineFernandes
+      > thesanjithkumar     : https://github.com/thesanjithkumar/thesanjithkumar
 -->
 
 
