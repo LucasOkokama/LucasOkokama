@@ -173,6 +173,8 @@
   </ul>
 </div>
 
+<img width="30%" height="1px">
+
 <div>
   <blockquote>
     <b>Click on the image</b> to access the project site (if available). GitHub's hosting service <br>
