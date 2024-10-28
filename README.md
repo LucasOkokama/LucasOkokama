@@ -153,9 +153,9 @@
     <img src="assets/anime-palette/anime-palette.png" width="286" height="306" align="center" alt="image decoration palette">
   </a>
 
-  <br><br>
+  <br>
   
-  <!--START_SECTION:langAllTimeHours-->
+<!--START_SECTION:langAllTimeHours-->
 
 ```rust
 From: 27 October 2024 - To: 28 October 2024
