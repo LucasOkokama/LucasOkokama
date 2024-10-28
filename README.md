@@ -177,7 +177,7 @@
 <div align="center">
     
 ```brainfuck
-    Click on the image to access the project site (if available). GitHub's hosting service
+    <b>Click on the image</b> to access the project site (if available). GitHub's hosting service
     works with static websites, so various features will not be present, especially backend parts.
     To access the complete project, click on the card (below the image) and clone the repository.
 ```
