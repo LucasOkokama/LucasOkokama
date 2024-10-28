@@ -173,7 +173,7 @@
   </ul>
 </div>
 
-<pre>
+<pre align=center>
   <blockquote>
     <b>Click on the image</b> to access the project site (if available). GitHub's hosting service
     works with <b>static websites</b>, so <b>various features will not be present</b>, especially backend parts.
