@@ -19,6 +19,11 @@
   <div align="center">
   <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
   </div>
+
+  <img src="https://media.tenor.com/YEJhBMVJuK4AAAAi/blue-bugcat.gif" width="150" height="150">
+  <img src="https://c.tenor.com/WHOwHxdVSQIAAAAC/tenor.gif" width="150" height="150">
+  <img src="https://c.tenor.com/xHzPisqF9ToAAAAC/tenor.gif" width="150" height="150">
+  <img src="https://c.tenor.com/2Cd3eA5jeC4AAAAC/tenor.gif" width="150" height="150">  
 </details>
 
 
