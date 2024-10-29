@@ -10,21 +10,7 @@
 
 
 
-
 <br>
-
-
-
-
-
-
-<!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
-  <picture>   
-    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
-  </picture>
-</a>
-
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <details>
@@ -36,6 +22,12 @@
 </details>
 
 
+<!-- ASCII ART -->
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
+  <picture>   
+    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
+  </picture>
+</a>
 
 
 
