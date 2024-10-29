@@ -25,7 +25,7 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<details>
+<details class="details-reset border rounded-2">
   <video src="https://github.com/user-attachments/assets/fa8f81f3-d3d9-4553-97e1-9212d0ea500e" controls muted="true"></video>
 </details>
 
