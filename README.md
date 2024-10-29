@@ -25,10 +25,9 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<video controls muted="true" width="970" height="50">
-  <source src="https://github.com/user-attachments/assets/5ab52df7-5bfd-4a89-adbc-99a19e72f953" type="video/mp4">
-</video>
-
+<div align="center">
+  <video src="" controls muted="true"></video>
+</div>
 
 
 
