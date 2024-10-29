@@ -18,7 +18,6 @@
 
 
 
-
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
   <picture>   
@@ -28,7 +27,7 @@
 <details>
   <summary>music  =D</summary>
   <div align="center">
-  <video src="" controls muted="true"></video>
+  <video src="https://github.com/user-attachments/assets/65fd9333-2dc5-4660-98e4-46590849a29f" controls muted="true"></video>
   </div>
 </details>
 
