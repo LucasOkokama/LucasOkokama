@@ -26,7 +26,7 @@
   </picture>
 </a>
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/1a3b7a9b-a832-4a98-aa81-ab1cfe6a39ac" controls muted="true"></video>
+  <video src="https://github.com/user-attachments/assets/fa8f81f3-d3d9-4553-97e1-9212d0ea500e" controls muted="true"></video>
 </div>
 
 
