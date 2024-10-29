@@ -14,8 +14,13 @@
 <br>
 
 
-
-
+<!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
+<details>
+  <summary>ㅤPlay some music 🧡</summary>
+  <div align="center">
+  <video src="https://github.com/user-attachments/assets/65fd9333-2dc5-4660-98e4-46590849a29f" controls muted="true"></video>
+  </div>
+</details>
 
 
 <!-- ASCII ART -->
@@ -24,12 +29,7 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<details>
-  <summary>music  =D</summary>
-  <div align="center">
-  <video src="https://github.com/user-attachments/assets/65fd9333-2dc5-4660-98e4-46590849a29f" controls muted="true"></video>
-  </div>
-</details>
+
 
 
 
