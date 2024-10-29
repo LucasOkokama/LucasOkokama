@@ -19,7 +19,7 @@
   <summary>ㅤ🧡</summary>
   <br>
   <div align="center">
-  <video src="https://github.com/user-attachments/assets/17231e10-0696-4810-aa97-11986bc21430" controls muted="true"></video>
+  <video src="" controls muted="true"></video>
   </div>
 </details>
 
