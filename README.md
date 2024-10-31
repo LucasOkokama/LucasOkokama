@@ -136,14 +136,18 @@
         <table>
           <tr>
             <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"/></a></td>
+            <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="36" alt="pycharm logo"/></a></td>
+            <td><a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellij idea logo"/></a></td>
             <td><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"/></a></td>
-            <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/></a></td>
-            <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/></a></td>
           </tr>
           <tr>
+            <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/></a></td>
+            <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/></a></td>
             <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"/></a></td>
             <td><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></a></td>
-            <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="postman logo"/></a></td>
+          </tr>
+          <tr>
+            <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"/></a></td>
           </tr>
         </table>
       </div>
