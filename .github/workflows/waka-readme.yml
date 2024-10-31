@@ -25,7 +25,7 @@ jobs:
           SHOW_TOTAL: true
           # SHOW_MASKED_TIME: false
           # STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Binary YAML JSON TOML Properties "Java Properties"
+          IGNORED_LANGUAGES: Binary YAML JSON TOML Properties "Java Properties" Git "GitIgnore file" "Git Config" Other
           COMMIT_MESSAGE: Updated "langAllTimeHours" metrics
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
