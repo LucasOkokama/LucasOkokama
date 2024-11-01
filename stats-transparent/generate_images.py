@@ -34,7 +34,7 @@ async def generate_overview(s: Stats) -> None:
     # Salva o SVG na pasta assets
     if not os.path.isdir("assets"):
         os.mkdir("assets")
-    with open("assets/overview.svg", "w") as f:
+    with open("assets/lucaskazuhiro-general-stats.svg", "w") as f:
         f.write(output)
 
 
@@ -80,7 +80,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     # Salva o SVG na pasta assets
     if not os.path.isdir("assets"):
         os.mkdir("assets")
-    with open("assets/languages.svg", "w") as f:
+    with open("assets/lucaskazuhiro-languages-stats.svg", "w") as f:
         f.write(output)
 
 
