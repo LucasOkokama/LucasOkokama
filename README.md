@@ -12,6 +12,21 @@
 
 <br>
 
+
+
+
+<div align="left">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" />   
+  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
+</div>
+
+<!-- ASCII ART -->
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
+  <picture>   
+    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
+  </picture>
+</a>
+
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <details>
   <summary>ㅤ🧡</summary>
@@ -20,18 +35,6 @@
   <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
   </div>
 </details>
-
-
-<!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
-  <picture>   
-    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
-  </picture>
-</a>
-<div align="left">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" />   
-  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
-</div>
   
 
 <br><br>
