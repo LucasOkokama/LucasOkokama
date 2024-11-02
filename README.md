@@ -222,7 +222,7 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- Projects subtitle (Codes) -->
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h2>🤖 Codes</h2>
   </summary>
@@ -271,7 +271,13 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- Projects subtitle (Design) -->
-<h2>✨ Design</h2>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h2>✨ Design</h2>
+    </summary>
+  </ul>
+</div>
 <!-- First row -->
 <table>
   <tr>
@@ -291,7 +297,13 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- Projects subtitle (Learnings) -->
-<h2>🚀 Learnings (experimental stuff)</h2>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h2>🚀 Learnings (experimental stuff)</h2>h2>✨ Design</h2>
+    </summary>
+  </ul>
+</div>
 <!-- First row -->
 <table>
   <tr>
