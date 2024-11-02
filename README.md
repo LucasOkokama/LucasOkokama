@@ -221,7 +221,13 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- Projects subtitle (Codes) -->
-<h2>🤖 Codes</h2>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h2>🤖 Codes</h2>
+  </summary>
+  </ul>
+</div>
 <!-- First row -->
 <table>
   <tr>
