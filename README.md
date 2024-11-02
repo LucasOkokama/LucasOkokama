@@ -28,6 +28,7 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
+<img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" />
 
 
 
