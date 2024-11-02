@@ -28,19 +28,12 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<table>
-  <tr>
-    <td>
-      <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" width="150px" height="28px"/>
-    </td>
-    <td>
-      <img src="https://custom-icon-badges.herokuapp.com/github/followers/lucaskazuhiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" width="150px" height="28px">
-    </td>
-  </tr>
-</table>
 
+      <!-- <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" width="150px" height="28px"/> -->
+   
+<img src="https://img.shields.io/badge/Linkedin-2da5dd?style=for-the-badge&logo=linkedin" width="150px" height="28px">
 
-
+  
 
 <br><br>
 
