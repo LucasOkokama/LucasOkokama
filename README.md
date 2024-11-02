@@ -29,6 +29,7 @@
   </picture>
 </a>
 <br>
+<br>
 <div align="left">
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=8013a4&color=9e36c1" />   
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
