@@ -29,6 +29,7 @@
   </picture>
 </a>
 <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" />
+<img src="https://custom-icon-badges.herokuapp.com/github/followers/lucaskazuhiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white">
 
 
 
