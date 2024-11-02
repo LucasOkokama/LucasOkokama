@@ -31,7 +31,7 @@
 
       <!-- <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" width="150px" height="28px"/> -->
    
-<img src="https://img.shields.io/badge/Linkedin-198bc1?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/Linkedin-127cae?style=for-the-badge&logo=linkedin">
 
   
 
