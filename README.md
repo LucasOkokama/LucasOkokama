@@ -13,7 +13,7 @@
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" />   
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
 </div>
-<img width="1" height="5">
+<img src width="1" height="5">
 
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
@@ -24,7 +24,7 @@
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <details align="center">
-  <summary>ㅤ🧡</summary>
+  <summary>🧡</summary>
   <br>
   <div align="center">
   <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
