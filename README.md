@@ -13,6 +13,7 @@
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" />   
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
 </div>
+<br>
 <img src width="1" height="5">
 
 <!-- ASCII ART -->
