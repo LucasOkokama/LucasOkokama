@@ -300,7 +300,7 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <h2>🚀 Learnings (experimental stuff)</h2>h2>✨ Design</h2>
+      <h2>🚀 Learnings (experimental stuff)</h2>
     </summary>
   </ul>
 </div>
