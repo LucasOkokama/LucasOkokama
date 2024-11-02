@@ -28,10 +28,8 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-
-      <!-- <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" width="150px" height="28px"/> -->
-   
-<img src="https://img.shields.io/badge/Linkedin-0c6b97?style=for-the-badge&logo=linkedin">
+<img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" />   
+<img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
 
   
 
