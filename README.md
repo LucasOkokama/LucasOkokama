@@ -14,9 +14,8 @@
 <!-- Badges -->
 <div align="left">
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>   
-  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and link">
+  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and">
 </div>
-<p></p>
 
 
 <!-- ASCII ART -->
@@ -346,8 +345,6 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 
-<br>
-
 
 <!-- Gif final page -->
 <a href="https://myanimelist.net/anime/269/Bleach">
@@ -356,6 +353,4 @@ SQL               0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- some random Gif's quote -->
-<div align=center>
-  <pre>\\  Yokoso watashi no Soul Societyie  //</pre>
-</div>
+<pre align=center>\\  Yokoso watashi no Soul Societyie  //</pre>
