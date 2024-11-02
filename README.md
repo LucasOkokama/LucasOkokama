@@ -28,9 +28,10 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" />   
-<img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
-
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" />   
+  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
+</div>
   
 
 <br><br>
