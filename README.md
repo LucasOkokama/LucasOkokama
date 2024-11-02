@@ -9,16 +9,11 @@
 -->
 
 
-
-<br>
-
-
-
-
 <div align="left">
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" />   
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
 </div>
+<img width="1" height="5">
 
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
@@ -28,7 +23,7 @@
 </a>
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
-<details>
+<details align="center">
   <summary>ㅤ🧡</summary>
   <br>
   <div align="center">
