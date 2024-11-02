@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin">
 </div>
 <br>
-<img src width="1" height="5">
 
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
