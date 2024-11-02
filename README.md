@@ -28,8 +28,16 @@
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
-<img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" align="left"/>
-<img src="https://custom-icon-badges.herokuapp.com/github/followers/lucaskazuhiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" align="left">
+<table>
+  <tr>
+    <td>
+      <img src="https://visitcount.itsvg.in/api?id=LucasKazuhiro&label=Profile%20Views&pretty=false" align="left"/>
+    </td>
+    <td>
+      <img src="https://custom-icon-badges.herokuapp.com/github/followers/lucaskazuhiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Followers&logoColor=white" align="left">
+    </td>
+  </tr>
+</table>
 
 
 
