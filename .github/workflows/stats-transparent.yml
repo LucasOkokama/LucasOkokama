@@ -5,8 +5,8 @@ name: Generate Stats Images
 # Controls when the action will run. Triggers the workflow on push events
 on:
   schedule:
-    # runs at 12 AM BRT (São Paulo Time)
-    - cron: "0 3 * * *"
+    # runs at 6 AM BRT (São Paulo Time)
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in
@@ -53,9 +53,9 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        EXCLUDED: ${{ secrets.EXCLUDED }}
-        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-        COUNT_STATS_FROM_FORKS: ${{ secrets.COUNT_STATS_FROM_FORKS }}
+        EXCLUDED: ${{ vars.EXCLUDED }}
+        EXCLUDED_LANGS: ${{ vars.EXCLUDED_LANGS }}
+        COUNT_STATS_FROM_FORKS: ${{ vars.COUNT_STATS_FROM_FORKS }}
 
     # Commits all changed files to the repository
     - name: Commit to the assets folder
