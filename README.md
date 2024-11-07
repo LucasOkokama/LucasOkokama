@@ -28,8 +28,8 @@
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
-  <img height="1" width="20">
-  <details>
+  <img height="1" width="1" align="left">
+  <details align="left">
     <summary>🧡</summary>
     <br>
     <div align="center">
