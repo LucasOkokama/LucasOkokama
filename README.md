@@ -289,7 +289,9 @@ Text              1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
+      <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
+        <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
+      </a>
       <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
       </a>
