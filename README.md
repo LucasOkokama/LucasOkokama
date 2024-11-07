@@ -27,14 +27,16 @@
 
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
-<details align="center">
-  <summary>🧡</summary>
-  <br>
-  <div align="center">
-  <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
-  </div>
-</details>
-  
+<div>
+  <img height="1" width="20">
+  <details>
+    <summary>🧡</summary>
+    <br>
+    <div align="center">
+    <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
+    </div>
+  </details>
+</div>  
 
 
 
