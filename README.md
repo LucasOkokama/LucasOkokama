@@ -59,7 +59,7 @@
 
 
 <!-- Profile stats with TV & Dithering effect -->
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true">
+<!-- <img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true"> -->
 
 
 <!-- Table Headers -->
@@ -70,7 +70,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              Techs
+              $\color{#663399}{Techs}$
             </h2>
           </summary>
         </ul>
@@ -242,7 +242,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
       <a href="https://github.com/LucasKazuhiro/EarthWise-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
       </a>
-    </td>
+    </td>2
     <td width="50%">
       <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%" height="100%">
       <a href="https://github.com/LucasKazuhiro/loja-vinho">
