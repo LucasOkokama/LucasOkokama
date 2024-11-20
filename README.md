@@ -70,7 +70,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\textsf{\color{#663399}{Techs}}$
+              $\sffamily{\color{#663399}{Techs}}$
             </h2>
           </summary>
         </ul>
