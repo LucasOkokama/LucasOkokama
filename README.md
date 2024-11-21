@@ -6,7 +6,6 @@
       > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername/AnOrdinaryUsername
       > ValentineFernandes  : https://github.com/ValentineFernandes/ValentineFernandes
       > thesanjithkumar     : https://github.com/thesanjithkumar/thesanjithkumar
-      > aesvic              : https://github.com/aesvic/aesvic
 -->
 
 
@@ -71,7 +70,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#9c41df}{Techs}}}$
+              Techs
             </h2>
           </summary>
         </ul>
@@ -82,7 +81,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#9c41df}{Frameworks | Libs}}}$
+              Frameworks & Libs
             </h2>
           </summary>
         </ul>
@@ -93,7 +92,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#9c41df}{Tools}}}$
+              Tools
             </h2>
           </summary>
         </ul>
