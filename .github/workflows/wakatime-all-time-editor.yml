@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token, required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_METRICS: "COMMIT_TIME_OF_DAY,COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME" # show metrics, separated by comma
-          WAKATIME_DATA: "EDITORS,PROJECTS" # show data, separated by comma
+          WAKATIME_DATA: "EDITORS" # show data, separated by comma
           SECTION_NAME: editor-time
           WAKATIME_RANGE: all_time
           TIME_ZONE: America/Sao_Paulo
