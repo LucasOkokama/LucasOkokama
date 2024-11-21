@@ -6,6 +6,7 @@
       > AnOrdinaryUsername  : https://github.com/AnOrdinaryUsername/AnOrdinaryUsername
       > ValentineFernandes  : https://github.com/ValentineFernandes/ValentineFernandes
       > thesanjithkumar     : https://github.com/thesanjithkumar/thesanjithkumar
+      > aesvic              : https://github.com/aesvic/aesvic
 -->
 
 
@@ -70,7 +71,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\textsf{\color{#663399}{Techs}}$
+              $\large{\textsf{\color{#8118cc}{Techs}}}$
             </h2>
           </summary>
         </ul>
@@ -81,7 +82,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              Frameworks & Libs
+              $\large{\textsf{\color{#8118cc}{Frameworks | Libs}}}$
             </h2>
           </summary>
         </ul>
@@ -92,7 +93,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              Tools
+              $\large{\textsf{\color{#8118cc}{Tools}}}$
             </h2>
           </summary>
         </ul>
@@ -379,4 +380,11 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- some random Gif's quote -->
-<pre align=center>\\  Yokoso watashi no Soul Societyie  //</pre>
+<div align="center">
+
+```diff
+@@    Yokoso watashi no Soul Societyie    @@
+```
+
+</div>
+
