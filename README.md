@@ -1,5 +1,5 @@
-<!-- 
-    Profile README inspired by: 
+<!--
+    Profile README inspired by:
       > Andrew6rant         : https://github.com/Andrew6rant/Andrew6rant
       > pvhuwung            : https://github.com/pvhuwung/pvhuwung
       > TryKatChup          : https://github.com/TryKatChup/TryKatChup
@@ -13,14 +13,14 @@
 
 <!-- Badges -->
 <div align="left">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>   
+  <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
   <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and">
 </div>
 
 
 <!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro"> 
-  <picture>   
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+  <picture>
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
@@ -36,7 +36,7 @@
     <video src="https://github.com/user-attachments/assets/21da40dd-e63a-48a3-9bb3-a10f1cf3c995" controls muted="true"></video>
     </div>
   </details>
-</div>  
+</div>
 
 
 
@@ -65,7 +65,7 @@
 <!-- Table Headers -->
 <table>
   <tr>
-    <th> 
+    <th>
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -76,7 +76,7 @@
         </ul>
       </div>
     </th>
-    <th> 
+    <th>
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -87,7 +87,7 @@
         </ul>
       </div>
     </th>
-    <th> 
+    <th>
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -132,7 +132,7 @@
             <td><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></a></td>
             <td><a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="36" alt="pandas logo"/></a></td>
             <td><a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></a></td>
-          </tr> 
+          </tr>
         </table>
         <br>
       </div>
@@ -173,7 +173,7 @@
   </a>
 
   <p></p>
-  
+
 <!--START_SECTION:langAllTimeHours-->
 
 ```rust
@@ -215,7 +215,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!-- Projects warning text -->
-<div align="center">  
+<div align="center">
 <p>
     <b><i>Click on the image</i></b> to access the project site (if available). GitHub's hosting service<br>
     works with static websites, so various features <b><i>will not be present</i></b>, especially backend parts.<br>
@@ -387,4 +387,3 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 </div>
-
