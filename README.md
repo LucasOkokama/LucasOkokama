@@ -200,7 +200,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <table>
 <tr>
-<td width="50%">
+<td width="30%">
     
  **📅 I'm Most Productive on Saturday**
 
@@ -215,7 +215,7 @@ Saturday                 258 commits         ██████░░░░░�
 ```
 
 </td>
-<td width="50%">
+<td width="30%">
     
 **📊 All The Time I Spent On**
 
