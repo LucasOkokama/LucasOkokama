@@ -51,7 +51,7 @@ jobs:
         python3 --version
         python3 stats-transparent/generate_images.py
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ${{ vars.EXCLUDED }}
         EXCLUDED_LANGS: ${{ vars.EXCLUDED_LANGS }}
