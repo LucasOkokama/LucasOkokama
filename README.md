@@ -178,12 +178,17 @@
 
 
 
+<br><br><br><br><br>
+
+
+
+
 <!-- Section Title -->
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Programming Statistics
+        💻 Programming Statistics
       </h1>
     </summary>
   </ul>
