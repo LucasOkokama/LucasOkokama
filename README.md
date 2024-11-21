@@ -383,8 +383,8 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
 
 ```diff
-@@                                            Yokoso watashi no Soul Societyie                                  @@
-##                                             ようこそ、私のソウルソサエティへ                                    ##
+@@                                      Yokoso watashi no Soul Societyie                                     @@
+##                                       ようこそ、私のソウルソサエティへ                                       ##
 ```
 
 </div>
