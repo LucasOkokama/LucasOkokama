@@ -174,7 +174,7 @@
 
   <p></p>
 
-<!--START_SECTION:langAllTimeHours-->
+<!--START_SECTION:lang-time-->
 
 ```rust
 From: 27 October 2024 - To: 20 November 2024
@@ -191,7 +191,10 @@ CSS               4 hrs 13 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
 ```
 
-<!--END_SECTION:langAllTimeHours-->
+<!--END_SECTION:lang-time-->
+
+<!--START_SECTION:editor-time-->
+<!--END_SECTION:editor-time-->
 </div>
 
 

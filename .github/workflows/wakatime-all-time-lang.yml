@@ -1,4 +1,4 @@
-name: WakaTime generate langAllTimeHours
+name: \[WakaTime\] Generate time spent by language
 
 on:
   # for manual workflow trigger
@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          SECTION_NAME: langAllTimeHours
+          SECTION_NAME: lang-time
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
           TIME_RANGE: all_time
@@ -26,7 +26,7 @@ jobs:
           # SHOW_MASKED_TIME: false
           # STOP_AT_OTHER: true
           IGNORED_LANGUAGES: Binary YAML JSON TOML Properties "Java Properties" Git "GitIgnore file" "Git Config" Other
-          COMMIT_MESSAGE: Updated "langAllTimeHours" metrics
+          COMMIT_MESSAGE: Updated lang-time metrics
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Lucas Kazuhiro Okokama
