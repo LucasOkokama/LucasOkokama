@@ -231,6 +231,9 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:lang-time-->
 
 
+<br><br>
+
+
 <!--START_SECTION:commit-dayweek-->
 **📅 I'm Most Productive on Saturday**
 
@@ -255,6 +258,9 @@ PyCharm                  10 hrs 22 mins      ███░░░░░░░░�
 
 
 <!--END_SECTION:commit-dayweek-->
+
+
+<br><br>
 
 
 <!--START_SECTION:editor-time-->
