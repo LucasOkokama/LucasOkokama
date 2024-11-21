@@ -29,6 +29,6 @@ jobs:
           EXCLUDE_FORK_REPOS: "true"
           SHOW_LAST_UPDATE: "false" # show last update time
           PROGRESS_BAR_VERSION: 1
-          COMMIT_MESSAGE: Updated lang-time metrics
+          COMMIT_MESSAGE: Updated editor-time metrics
           COMMIT_USER_NAME: LucasKazuhiro
           COMMIT_USER_EMAIL: lucaslko429@gmail.com
