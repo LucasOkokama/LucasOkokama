@@ -231,7 +231,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:lang-time-->
 
 
-<!--START_SECTION:commit-dayweek-editor-time-->
+<!--START_SECTION:commit-dayweek-->
 **📅 I'm Most Productive on Saturday**
 
 ```text
@@ -254,7 +254,17 @@ PyCharm                  10 hrs 22 mins      ███░░░░░░░░�
 ```
 
 
-<!--END_SECTION:commit-dayweek-editor-time-->
+<!--END_SECTION:commit-dayweek-->
+
+
+<!--START_SECTION:editor-time-->
+<!--END_SECTION:editor-time-->
+
+<!-- Leetcode & Streak  -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=4" height="167" alt="LeetCode Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
+</div>
 
 </div>
 
@@ -416,7 +426,9 @@ PyCharm                  10 hrs 22 mins      ███░░░░░░░░�
 <br><br><br><br><br><br>
 
 
-<!-- Thanks title -->
+
+
+<!-- Section title -->
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -426,14 +438,6 @@ PyCharm                  10 hrs 22 mins      ███░░░░░░░░�
     </summary>
   </ul>
 </div>
-
-
-<!-- Leetcode & Streak  -->
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=4" height="167" alt="LeetCode Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
-</div>
-
 
 
 <!-- Gif final page -->

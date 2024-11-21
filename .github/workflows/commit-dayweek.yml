@@ -1,4 +1,4 @@
-name: Generate commit per dayweek and time per editor
+name: Generate commit per dayweek
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Updated commit-dayweek and editor-time metrics
+    name: Updated commit-dayweek metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,15 +20,15 @@ jobs:
           BRANCH_NAME: ${{ github.ref_name }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token, required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_METRICS: "COMMIT_DAYS_OF_WEEK,WAKATIME_SPENT_TIME" # show metrics, separated by comma
-          WAKATIME_DATA: "EDITORS" # show data, separated by comma
-          SECTION_NAME: commit-dayweek-editor-time
+          SHOW_METRICS: "COMMIT_DAYS_OF_WEEK" # show metrics, separated by comma
+          WAKATIME_DATA: "" # show data, separated by comma
+          SECTION_NAME: commit-dayweek
           WAKATIME_RANGE: all_time
           TIME_ZONE: America/Sao_Paulo
           ONLY_MAIN_BRANCH: "true" # only fetch data from the main branch
           EXCLUDE_FORK_REPOS: "true"
           SHOW_LAST_UPDATE: "false" # show last update time
           PROGRESS_BAR_VERSION: 1
-          COMMIT_MESSAGE: Updated commit-dayweek and editor-time metrics
+          COMMIT_MESSAGE: Updated commit-dayweek metrics
           COMMIT_USER_NAME: LucasKazuhiro
           COMMIT_USER_EMAIL: lucaslko429@gmail.com
