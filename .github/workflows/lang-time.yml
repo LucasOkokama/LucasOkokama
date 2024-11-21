@@ -1,4 +1,4 @@
-name: WakaTime | Generate time spent by language
+name: Generate time per language
 
 on:
   # for manual workflow trigger

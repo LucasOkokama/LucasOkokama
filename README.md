@@ -40,13 +40,13 @@
 
 
 
+
 <br><br>
 
 
 
 
-<!-- Tech Table -->
-  <!-- Table Title -->
+<!-- Section Title -->
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -173,6 +173,28 @@
   </a>
 
   <p></p>
+<div>
+
+
+
+
+<!-- Section Title -->
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Programming Statistics
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+
+<div align="center">
+
+<!--START_SECTION:commit-day-moment-->
+<!--END_SECTION:commit-day-moment-->
+
 
 <!--START_SECTION:lang-time-->
 
@@ -193,59 +215,10 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:lang-time-->
 
-<br>
-<br>
-<br>
-<br>
 
-<table>
-<tr>
-<td width="30%">
-    
- **📅 I'm Most Productive on Saturday**
+<!--START_SECTION:commit-dayweek-editor-time-->
+<!--END_SECTION:commit-dayweek-editor-time-->
 
-```text
-Sunday                   196 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16%
-Monday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38%
-Tuesday                  135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51%
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73%
-Thursday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58%
-Friday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72%
-Saturday                 258 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91%
-```
-
-</td>
-<td width="30%">
-    
-**📊 All The Time I Spent On**
-
-```text
-📝 Editors:
-VS Code                  49 hrs 34 mins      █████████████████░░░░░░░░   67.92%
-IntelliJ IDEA            13 hrs 2 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87%
-PyCharm                  10 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.21%
-```
-
-</td>
-</tr>
-</table>
-
-<!--START_SECTION:editor-time-->
-**🕒 I'm An Afternoon Warrior 🥷🏻**
-
-```text
-🌅 Morning                178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50%
-🌞 Daytime                468 commits         ███████████░░░░░░░░░░░░░░   43.37%
-🌆 Evening                221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48%
-🌙 Night                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65%
-```
-
-
-
-
-
-
-<!--END_SECTION:editor-time-->
 </div>
 
 
@@ -256,7 +229,7 @@ PyCharm                  10 hrs 22 mins      ████░░░░░░░�
 
 
 
-<!-- Projects title -->
+<!-- Section title -->
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
