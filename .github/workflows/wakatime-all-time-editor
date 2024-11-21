@@ -1,4 +1,4 @@
-name: \[WakaTime\] Generate  time spent by editor
+name: WakaTime | Generate  time spent by editor
 
 on:
   schedule:

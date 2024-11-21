@@ -1,4 +1,4 @@
-name: \[WakaTime\] Generate time spent by language
+name: WakaTime | Generate time spent by language
 
 on:
   # for manual workflow trigger
