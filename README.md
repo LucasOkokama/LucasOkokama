@@ -71,7 +71,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#8118cc}{Techs}}}$
+              $\large{\textsf{\color{#9c41df}{Techs}}}$
             </h2>
           </summary>
         </ul>
@@ -82,7 +82,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#8118cc}{Frameworks | Libs}}}$
+              $\large{\textsf{\color{#9c41df}{Frameworks | Libs}}}$
             </h2>
           </summary>
         </ul>
@@ -93,7 +93,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              $\large{\textsf{\color{#8118cc}{Tools}}}$
+              $\large{\textsf{\color{#9c41df}{Tools}}}$
             </h2>
           </summary>
         </ul>
@@ -383,7 +383,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
 
 ```diff
-@@    Yokoso watashi no Soul Societyie    @@
+@@                                            Yokoso watashi no Soul Societyie                                            @@
 ```
 
 </div>
