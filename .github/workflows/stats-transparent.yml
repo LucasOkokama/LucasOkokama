@@ -9,14 +9,8 @@ on:
     - cron: "0 9 * * *"
   workflow_dispatch:
   workflow_call:
-    inputs:
-      BRANCH_NAME:
-        type: string
-        required: true
     secrets:
       GH_TOKEN:
-        required: true
-      WAKATIME_API_KEY:
         required: true
 
 # A workflow run is made up of one or more jobs that can run sequentially or in

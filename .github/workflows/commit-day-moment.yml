@@ -27,7 +27,7 @@ jobs:
       - name: Run GitHub Stats Action
         uses: thanhhaudev/github-stats@master
         env:
-          BRANCH_NAME: ${{ github.ref_name }}
+          BRANCH_NAME: ${{ inputs.ref_name }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token, required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_METRICS: "COMMIT_TIME_OF_DAY" # show metrics, separated by comma

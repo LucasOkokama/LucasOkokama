@@ -42,10 +42,7 @@ jobs:
     needs: call-editor-time
     if: always()
     uses: ./.github/workflows/lang-time.yml
-    with:
-      BRANCH_NAME: ${{ github.ref_name }}
     secrets:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
 
@@ -53,8 +50,5 @@ jobs:
     needs: call-lang-time
     if: always()
     uses: ./.github/workflows/stats-transparent.yml
-    with:
-      BRANCH_NAME: ${{ github.ref_name }}
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
