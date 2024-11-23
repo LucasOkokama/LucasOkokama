@@ -41,6 +41,8 @@ text, tspan {white-space: pre;}
   <tspan x="15" y="550">@%@%#@%%##%###=:......::-###%###%####@</tspan>
 </text>
 
+<rect width="15" height="15" x="696" y="382" rx="3" fill="rebeccapurple" />
+
 <text x="390" y="25" fill="#c9d1d9">
   <tspan x="380" y="40">An introverted japanese student passionate about movies[450] 🎥,</tspan>
   <tspan x="380" y="65">animes[330], and series. He loves 🐶 and always goes out</tspan>
@@ -50,8 +52,6 @@ text, tspan {white-space: pre;}
   <tspan x="380" y="165">Currently immersed in the world of 🖥️ having fun (and getting </tspan>
   <tspan x="380" y="190">frustrated with bugs! 💢).</tspan>
 
-
-
   <tspan x="380" y="240" class="titleFile">kazuh.json</tspan><tspan x="480" y="240"> ----  ----  ----  ----  ----  ----  ----  ----  ----</tspan>
 
   <tspan x="385" y="270" class="curlyBrackets">{</tspan> 
@@ -59,18 +59,13 @@ text, tspan {white-space: pre;}
   <tspan x="420" y="320" class="keyColor">"temprature"</tspan> : <tspan x="556" y="320" class="valueColor">"10°C isnt really cold"</tspan>,
   <tspan x="420" y="345" class="keyColor">"loves"</tspan>      : [<tspan x="562" y="345" class="valueColor">"Interstelar", "One Piece", "Mandalorian"</tspan>],
   <tspan x="420" y="370" class="keyColor">"location"</tspan>   : <tspan x="556" y="370" class="valueColor">"Vinland"</tspan>, <tspan x="660" y="370" class="commentColor">#You have no enemies</tspan>
-  <tspan x="420" y="395" class="keyColor">"mbti"</tspan>       : <tspan x="556" y="395" class="valueColor">"INFJ"</tspan>,
+  <tspan x="420" y="395" class="keyColor">"fav_color"</tspan>  : <tspan x="556" y="395" class="valueColor">"rebeccapurple"</tspan>   ,
   <tspan x="420" y="420" class="keyColor">"design"</tspan>     : <tspan x="556" y="420" class="valueColor">"design is my passion"</tspan>,
   <tspan x="420" y="445" class="keyColor">"nostalgia"</tspan>  : <tspan x="556" y="445" class="valueColor">"minecraft"</tspan>, <tspan x="680" y="445" class="commentColor">#pure good feelings</tspan>
   <tspan x="420" y="470" class="keyColor">"food"</tspan>       : <tspan x="556" y="470" class="valueColor">"potato potato."</tspan>,
   <tspan x="420" y="495" class="keyColor">"animals"</tspan>    : [<tspan x="562" y="495" class="valueColor">"Dog", "Cat", "Penguin", "Capybara"</tspan>],
   <tspan x="420" y="520" class="keyColor">"center-div"</tspan> : <tspan x="556" y="520" class="valueColor">"IMPOSSIBLE."</tspan> <tspan x="687" y="520" class="commentColor">#not kidding, impossible.</tspan>
   <tspan x="385" y="545" class="curlyBrackets">}</tspan> 
-
-
-
-
-
 </text>
 
 </svg>
