@@ -4,12 +4,9 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 6 AM BRT (São Paulo Time)
-    - cron: "0 9 * * *"
-  workflow_call:
-    secrets:
-      WAKATIME_API_KEY:
-        required: true
+    # runs at 5 AM BRT (São Paulo Time)
+    - cron: "0 8 * * *"
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics

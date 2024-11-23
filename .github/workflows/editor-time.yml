@@ -2,19 +2,9 @@ name: Generate time per editor
 
 on:
   schedule:
-    # runs at 6 AM BRT (São Paulo Time)
-    - cron: "0 9 * * *"
+    # runs at 4:40 AM BRT (São Paulo Time)
+    - cron: "40 7 * * *"
   workflow_dispatch:
-  workflow_call:
-    inputs:
-      BRANCH_NAME:
-        type: string
-        required: true
-    secrets:
-      GH_TOKEN:
-        required: true
-      WAKATIME_API_KEY:
-        required: true
 jobs:
   update-readme:
     name: Updated editor-time metrics
@@ -24,14 +14,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Pull latest changes
-        run: git pull origin main
-
       - name: Run GitHub Stats Action
-        uses: LucasKazuhiro/github-stats-no-label@master
+        uses: thanhhaudev/github-stats@master
         env:
-          BRANCH_NAME: ${{ inputs.ref_name }}
+          BRANCH_NAME: ${{ github.ref_name }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token, required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_METRICS: "WAKATIME_SPENT_TIME" # show metrics, separated by comma
