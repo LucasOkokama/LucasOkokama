@@ -64,8 +64,8 @@
 
 <!-- Table Icons -->
 <table>
-  <tr width="100%">
-    <th width="30%">
+  <tr>
+    <th width="250px">
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -77,7 +77,7 @@
       </div>
     </th>
     <!-- Techs icons -->
-    <td width="70%">
+    <td width="600px">
       <a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a>
       <a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a>
@@ -90,7 +90,7 @@
   </tr>
 
   <tr>
-    <th width="30%">
+    <th>
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -111,7 +111,7 @@
   </tr>
 
   <tr>
-    <th width="30%">
+    <th>
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
