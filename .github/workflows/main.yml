@@ -8,28 +8,28 @@ on:
 
 jobs:
   call-commit-day-moment:
-    uses: ./commit-day-moment.yml@main
+    uses: .github/workflows/commit-day-moment.yml@main
 
 
   call-commit-dayweek:
     needs: call-commit-day-moment
     if: always()
-    uses: ./commit-dayweek.yml@main
+    uses: .github/workflows/commit-dayweek.yml@main
 
 
   call-editor-time:
     needs: call-commit-dayweek
     if: always()
-    uses: ./editor-time.yml@main
+    uses: .github/workflows/editor-time.yml@main
 
 
   call-lang-time:
     needs: call-editor-time
     if: always()
-    uses: ./lang-time.yml@main
+    uses: .github/workflows/lang-time.yml@main
 
 
   call-stats-transparent:
     needs: call-lang-time
     if: always()
-    uses: ./stats-transparent.yml@main
+    uses: .github/workflows/stats-transparent.yml@main
