@@ -65,7 +65,7 @@
 <!-- Table Icons -->
 <table>
   <tr>
-    <th width="250px">
+    <th width="200px">
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
@@ -77,7 +77,7 @@
       </div>
     </th>
     <!-- Techs icons -->
-    <td width="600px">
+    <td width="650px">
       <a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a>
       <a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a>
