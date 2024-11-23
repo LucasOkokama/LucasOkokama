@@ -77,14 +77,14 @@
       </div>
     </th>
     <!-- Techs icons -->
-    <td><a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a></td>
-    <td><a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a></td>
-    <td><a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/></a></td>
-    <td><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"/></a></td>
-    <td><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"/></a></td>
-    <td><a href="#"><img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"/></a></td>
-    <td><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"/></a></td>
+    <a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/></a>
+    <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"/></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"/></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"/></a>
+    <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"/></a>
   </tr>
 
   <tr>
@@ -100,10 +100,10 @@
       </div>
     </th>
     <!-- Frameworks & Libs icons -->
-    <td><a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></a></td>
-    <td><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></a></td>
-    <td><a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="36" alt="pandas logo"/></a></td>
-    <td><a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></a></td>
+    <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="36" alt="angularjs logo"/></a>
+    <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="36" alt="spring logo"/></a>
+    <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="36" alt="pandas logo"/></a>
+    <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="36" alt="plotly logo"/></a>
   </tr>
 
   <tr>
@@ -119,15 +119,15 @@
       </div>
     </th>
     <!-- Tools icons -->
-    <td><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"/></a></td>
-    <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="36" alt="pycharm logo"/></a></td>
-    <td><a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellij idea logo"/></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"/></a></td>
-    <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"/></a></td>
-    <td><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"/></a></td>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"/></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="36" alt="pycharm logo"/></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="36" alt="intellij idea logo"/></a>
+    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"/></a>
+    <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"/></a>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"/></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"/></a>
+    <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></a>
+    <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"/></a>
   </tr>
 </table>
 
