@@ -27,9 +27,11 @@ jobs:
 
       - name: Pull latest changes
         run: git pull origin main
-        
-      - name: Run GitHub Stats Action
-        uses: thanhhaudev/github-stats@master
+
+      - name: Run GitHub Stats Action (local version)
+        run: |
+          cd github-wakatime-stats
+          go run cmd/main.go
         env:
           BRANCH_NAME: ${{ inputs.ref_name }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token, required

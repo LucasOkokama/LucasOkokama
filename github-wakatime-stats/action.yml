@@ -1,0 +1,55 @@
+name: 'GitHub README.md Metrics'
+description: 'Update your GitHub README.md with cool metrics.'
+author: 'Nguyen Thanh Hau'
+inputs:
+  GITHUB_TOKEN:
+    description: 'GitHub token with repo access'
+    required: true
+  SHOW_METRICS:
+    description: 'Use this to specify which metrics to show'
+    required: true
+  WAKATIME_API_KEY:
+    description: 'WakaTime API key'
+    required: false
+  WAKATIME_DATA:
+    description: 'Data to show from WakaTime'
+    required: false
+  WAKATIME_RANGE:
+    description: 'Range of data to show from WakaTime'
+    required: false
+  TIME_ZONE:
+    description: 'Time zone to show in the metrics'
+    required: false
+  TIME_LAYOUT:
+    description: 'Time layout to show in the metrics'
+    required: false
+  SHOW_LAST_UPDATE:
+    description: 'Show last update in the readme'
+    required: false
+  ONLY_MAIN_BRANCH:
+    description: "Only use main branch's commits"
+    required: false
+  HIDE_REPO_INFO:
+    description: 'Hide repository information'
+    required: false
+  COMMIT_MESSAGE:
+    description: 'Commit message'
+    required: false
+  COMMIT_USER_NAME:
+    description: 'Commit user name'
+    required: false
+  COMMIT_USER_EMAIL:
+    description: 'Commit user email'
+    required: false
+  LANGUAGES_AND_TOOLS:
+    description: 'Languages and tools used in the repositories'
+    required: false
+  EXCLUDE_FORK_REPOS:
+    description: 'Exclude fork repositories'
+    required: false
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: 'star'
+  color: 'orange'
