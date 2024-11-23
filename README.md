@@ -95,7 +95,7 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              Frameworks & Libs
+              Frameworks<br>Libs
             </h2>
           </summary>
         </ul>
