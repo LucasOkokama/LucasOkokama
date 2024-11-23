@@ -140,12 +140,8 @@
 
 <!-- Most used languages & Image -->
 <div align="center">
-  <img src="./assets/lucaskazuhiro-languages-stats.svg" width="63%"  alt="languages graph" align="left" />
-
-  <a href="https://myanimelist.net/anime/39534/Jibaku_Shounen_Hanako-kun">
-    <img src="assets/custom-img/extra-img/extra-img.png" width="286" height="306" align="center" alt="image decoration palette">
-  </a>
-
+  <img src="./assets/lucaskazuhiro-languages-stats.svg" width="50%"  alt="languages stats" align="center" />
+  <img src="./assets/lucaskazuhiro-general-stats.svg" width="50%" align="center" alt="general github stats">
   <p></p>
 <div>
 
