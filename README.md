@@ -140,8 +140,8 @@
 
 <!-- Most used languages & Image -->
 <div align="center">
-  <img src="./assets/lucaskazuhiro-languages-stats.svg" width="50%"  alt="languages stats" align="center" />
-  <img src="./assets/lucaskazuhiro-general-stats.svg" width="50%" align="center" alt="general github stats">
+  <img src="./assets/lucaskazuhiro-languages-stats.svg" width="49%"  alt="languages stats" align="center" />
+  <img src="./assets/lucaskazuhiro-general-stats.svg" width="49%" align="center" alt="general github stats">
   <p></p>
 <div>
 
