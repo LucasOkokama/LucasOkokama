@@ -205,7 +205,7 @@ XML               2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:lang-time-->
 
 
-<br><br>
+<br>
 
 
 <!--START_SECTION:commit-dayweek-->
@@ -225,7 +225,7 @@ Saturday                 290 commits         ██████░░░░░�
 <!--END_SECTION:commit-dayweek-->
 
 
-<br><br>
+<br>
 
 
 <!--START_SECTION:editor-time-->
