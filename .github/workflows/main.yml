@@ -8,7 +8,7 @@ on:
 
 jobs:
   call-commit-day-moment:
-    uses: .github/workflows/commit-day-moment.yml@main
+    uses: LucasKazuhiro/LucasKazuhiro/github/workflows/commit-day-moment.yml@main
 
 
   call-commit-dayweek:
