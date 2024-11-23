@@ -9,10 +9,10 @@ import (
 	"time"
 
 	_ "github.com/joho/godotenv/autoload"
-	"github.com/thanhhaudev/github-stats/pkg/clock"
-	"github.com/thanhhaudev/github-stats/pkg/container"
-	"github.com/thanhhaudev/github-stats/pkg/github"
-	"github.com/thanhhaudev/github-stats/pkg/wakatime"
+	"github.com/LucasKazuhiro/github-wakatime-stats/pkg/clock"
+	"github.com/LucasKazuhiro/github-wakatime-stats/pkg/container"
+	"github.com/LucasKazuhiro/github-wakatime-stats/pkg/github"
+	"github.com/LucasKazuhiro/github-wakatime-stats/pkg/wakatime"
 )
 
 func main() {
