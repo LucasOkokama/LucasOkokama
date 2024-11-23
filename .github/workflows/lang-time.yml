@@ -7,6 +7,15 @@ on:
     # runs at 6 AM BRT (São Paulo Time)
     - cron: "0 9 * * *"
   workflow_call:
+    inputs:
+      BRANCH_NAME:
+        type: string
+        required: true
+    secrets:
+      GH_TOKEN:
+        required: true
+      WAKATIME_API_KEY:
+        required: true
 jobs:
   update-readme:
     name: WakaReadme DevMetrics

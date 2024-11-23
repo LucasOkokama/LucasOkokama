@@ -6,6 +6,15 @@ on:
     - cron: "0 9 * * *"
   workflow_dispatch:
   workflow_call:
+    inputs:
+      BRANCH_NAME:
+        type: string
+        required: true
+    secrets:
+      GH_TOKEN:
+        required: true
+      WAKATIME_API_KEY:
+        required: true
 jobs:
   update-readme:
     name: Updated editor-time metrics
