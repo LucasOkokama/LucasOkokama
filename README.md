@@ -129,6 +129,7 @@
     <td><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"/></a></td>
     <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"/></a></td>
   </tr>
+</table>
 
 
 <!-- Most used languages & Palette anime picture -->
