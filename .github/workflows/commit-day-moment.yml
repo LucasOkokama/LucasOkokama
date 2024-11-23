@@ -5,6 +5,7 @@ on:
     # runs at 6 AM BRT (São Paulo Time)
     - cron: "0 9 * * *"
   workflow_dispatch:
+  workflow_call:
 jobs:
   update-readme:
     name: Updated commit-day-moment metrics

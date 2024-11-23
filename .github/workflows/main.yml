@@ -1,0 +1,35 @@
+name: Main Workflow Runner
+
+on:
+  workflow_dispatch:
+  schedule:
+    # runs at 6 AM BRT (São Paulo Time)
+    - cron: "0 9 * * *"
+
+jobs:
+  call-commit-day-moment:
+    uses: ./commit-day-moment.yml
+
+
+  call-commit-dayweek:
+    needs: call-commit-day-moment
+    if: always()
+    uses: ./commit-dayweek.yml
+
+
+  call-editor-time:
+    needs: call-commit-dayweek
+    if: always()
+    uses: ./editor-time.yml
+
+
+  call-lang-time:
+    needs: call-editor-time
+    if: always()
+    uses: ./lang-time.yml
+
+
+  call-stats-transparent:
+    needs: call-lang-time
+    if: always()
+    uses: ./stats-transparent.yml
