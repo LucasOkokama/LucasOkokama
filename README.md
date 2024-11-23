@@ -78,8 +78,8 @@
     </th>
     <!-- Techs icons -->
     <td width="650px">
-      <a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"/></a>
-      <a href="#"><img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"/></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=html" height="36" alt="html logo"/></a>
+      <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="36" alt="css logo"/></a>
       <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"/></a>
       <a href="#"><img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"/></a>
       <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"/></a>
