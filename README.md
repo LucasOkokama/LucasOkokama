@@ -241,16 +241,16 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <a href="https://korosenku.vercel.app">
         <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/anime-blog-review">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
+      <a href="https://github.com/LucasOkokama/anime-blog-review">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/LucasKazuhiro/loja-vinho">
         <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/loja-vinho">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
+      <a href="https://github.com/LucasOkokama/loja-vinho">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
       </a>
     </td>
   </tr>
@@ -260,11 +260,11 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://lucaskazuhiro.github.io/EarthWise-website-host/">
+      <a href="https://lucasokokama.github.io/EarthWise-website-host/">
         <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/EarthWise-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+      <a href="https://github.com/LucasOkokama/EarthWise-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
       </a>
     </td>
     <td width="50%">
@@ -276,19 +276,19 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
+      <a href="https://github.com/LucasOkokama/anime-statistics-charts">
         <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/anime-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
+      <a href="https://github.com/LucasOkokama/anime-statistics-charts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
+      <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
         <img src="./assets/projects-previews/filmes-statistics-charts-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/filmes-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
+      <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
     </td>
   </tr>
@@ -311,16 +311,16 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <a href="https://www.figma.com/proto/JKhN9qtK5zfoH0lPQIZcJ6/VinhoEcommerce">
         <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/wine-store-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
+      <a href="https://github.com/LucasOkokama/wine-store-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
       </a>
     </td>
     <td width="50%">
       <a href="https://www.figma.com/proto/9xlVkFh4w7eP8Z3GWelY2q/Anime-Blog-Review?node-id=1-2&t=XBaEhW2ueDgbF9l7-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1">
         <img src="./assets/projects-previews/anime-blog-review-dsgn-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasKazuhiro/anime-blog-review-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=anime-blog-review-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
+      <a href="https://github.com/LucasOkokama/anime-blog-review-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
       </a>
     </td>
   </tr>
@@ -340,13 +340,13 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/Java_Console_Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="Java_Console_Game"/>
+      <a href="https://github.com/LucasOkokama/Java_Console_Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=Java_Console_Game&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="Java_Console_Game"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/simple-crud-springboot-postman">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="simple-crud-springboot-postman"/>
+      <a href="https://github.com/LucasOkokama/simple-crud-springboot-postman">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="simple-crud-springboot-postman"/>
       </a>
     </td>
   </tr>
@@ -356,13 +356,13 @@ JavaScript         5 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/vestibular-extrair-questoes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=vestibular-extrair-questoes&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
+      <a href="https://github.com/LucasOkokama/vestibular-extrair-questoes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=vestibular-extrair-questoes&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/study-simple-wishlist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasKazuhiro&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
+      <a href="https://github.com/LucasOkokama/study-simple-wishlist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
       </a>
     </td>
   </tr>
