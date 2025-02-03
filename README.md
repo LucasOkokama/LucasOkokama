@@ -242,7 +242,7 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://lucasokokama.vercel.app/">
-        <img src="./assets/projects-previews/portfolio-v1.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/portfolio-v1-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
@@ -317,11 +317,11 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://www.figma.com/proto/JKhN9qtK5zfoH0lPQIZcJ6/VinhoEcommerce">
-        <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
+      <a href="https://www.figma.com/proto/uGSOYUu6wNWY2nGpwLoBvn/Portfolio?node-id=1-2&p=f&t=hIAqQQhPsH0zjI49-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
+        <img src="./assets/projects-previews/portfolio-v1-dsgn-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasOkokama/wine-store-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
+      <a href="https://github.com/LucasOkokama/portfolio-v1-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
       </a>
     </td>
     <td width="50%">
@@ -332,6 +332,21 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
       </a>
     </td>
+  </tr>
+</table>
+
+<!-- Second row -->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.figma.com/proto/JKhN9qtK5zfoH0lPQIZcJ6/VinhoEcommerce">
+        <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/wine-store-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
+      </a>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
