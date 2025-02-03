@@ -16,13 +16,13 @@
 
 <!-- Badges -->
 <div align="left">
-  <img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and">
+  <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
   <img width="2px">
   <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
   <img width="2px">
   <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
   <img width="1px">
-  <a href="https://wakatime.com/@LucasKazuhiro"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
+  <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
 </div>
 
 <!-- ASCII ART -->
@@ -78,12 +78,12 @@
     <td width="650px">
       <a href="#"><img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"/></a><img width="6px" height="1px">
       <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="45" alt="css logo"/></a><img width="6px" height="1px">
-      <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"/></a><img width="6px" height="1px">
       <a href="#"><img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/></a><img width="6px" height="1px">
-      <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"/></a><img width="6px" height="1px">
+      <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"/></a><img width="6px" height="1px">
+      <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"/></a><img width="6px" height="1px">
       <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"/></a><img width="6px" height="1px">
-      <a href="#"><img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"/></a><img width="6px" height="1px">
-      <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo"/></a>
+      <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"/></a><img width="6px" height="1px">
+      <a href="#"><img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"/></a><img width="6px" height="1px"><img width="6px" height="1px">
     </td>
   </tr>
 
@@ -102,11 +102,13 @@
     <!-- Frameworks & Libs icons -->
     <td>
       <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" height="45" alt="angularjs logo"/></a><img width="6px" height="1px">
+      <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"/></a><img width="6px" height="1px">
+      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"/></a><img width="6px" height="1px">
       <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind logo"/></a><img width="6px" height="1px">
       <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"/></a><img width="6px" height="1px">
-      <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45" alt="pandas logo"/></a><img width="6px" height="1px">
-      <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="45" alt="plotly logo"/></a>
       <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"/></a><img width="6px" height="1px">
+      <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45" alt="pandas logo"/></a><img width="6px" height="1px">
+      <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="45" alt="plotly logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
@@ -128,12 +130,13 @@
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="45" alt="pycharm logo"/></a><img width="6px" height="1px">
       <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellij idea logo"/></a><img width="6px" height="1px">
       <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"/></a><img width="6px" height="1px">
+      <a href="https://www.gimp.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" height="45" alt="gimp logo"/></a><img width="6px" height="1px">
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"/></a><img width="6px" height="1px">
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
-      <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"/></a><img width="6px" height="1px">
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
       <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
+      <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 </table>
@@ -161,6 +164,7 @@
 <div align="center">
 
 <!--START_SECTION:commit-day-moment-->
+
 **🕒 I'm An Early 🐤**
 
 ```text
@@ -169,7 +173,6 @@
 🌆 Evening                377 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20%
 🌙 Night                  432 commits         ██████░░░░░░░░░░░░░░░░░░░   24.30%
 ```
-
 
 <!--END_SECTION:commit-day-moment-->
 
@@ -200,7 +203,7 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- Leetcode & Streak  -->
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=4" height="167" alt="LeetCode Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKazuhiro&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasOkokama&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
 </div>
 
 </div>
@@ -238,19 +241,19 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
+      <a href="https://lucasokokama.vercel.app/">
+        <img src="./assets/projects-previews/portfolio-v1.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/portfolio-v1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
+      </a>
+    </td>
+    <td width="50%">
       <a href="https://korosenku.vercel.app">
         <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-blog-review">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LucasKazuhiro/loja-vinho">
-        <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%" height="100%">
-      </a>
-      <a href="https://github.com/LucasOkokama/loja-vinho">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
       </a>
     </td>
   </tr>
@@ -260,14 +263,20 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/LucasKazuhiro/loja-vinho">
+        <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/loja-vinho">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
+      </a>
+    </td>
+    <td width="50%">
       <a href="https://lucasokokama.github.io/EarthWise-website-host/">
         <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasOkokama/EarthWise-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
       </a>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
