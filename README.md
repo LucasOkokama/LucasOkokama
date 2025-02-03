@@ -224,8 +224,9 @@ JavaScript         5 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- Projects warning text -->
 <div align="center">
 <p>
-    <b><i>Click on the image</i></b> to access the project site (if available). To access the<br>
-    <b><i>complete project</i></b>, click on the card (below the image) and <b><i>clone the repository</i></b>.
+    <b><i>Click on the image</i></b> to visit the project's website (if available). If you want to explore<br>
+    the complete project, <b><i>click on the card below the image</i></b> to access the repository and clone it.<br>
+    Thank you for your interest in my work! Feel free to explore, contribute, or reach out with any feedback."
 </p>
 </div>
 
