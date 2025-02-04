@@ -14,6 +14,17 @@
       > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
+<!-- Badges -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
+  <img width="2px">
+  <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
+  <img width="2px">
+  <!-- <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
+  <img width="1px"> -->
+  <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
+</div>
+
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
   <picture>
@@ -26,17 +37,6 @@
     <a href="https://lucasokokama.vercel.app/">
       <img src="./assets/banner.png">
     </a>
-</div>
-
-<!-- Badges -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
-  <img width="2px">
-  <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
-  <img width="2px">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
-  <img width="1px">
-  <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
 </div>
 
 
