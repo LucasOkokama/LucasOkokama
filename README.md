@@ -14,19 +14,19 @@
       > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
-<!-- Banner -->
-<div align="center">
-    <a href="https://lucasokokama.vercel.app/">
-      <img src="./assets/banner.png">
-    </a>
-</div>
-
 <!-- ASCII ART -->
 <a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
   <picture>
     <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
   </picture>
 </a>
+
+<!-- Banner -->
+<div align="center">
+    <a href="https://lucasokokama.vercel.app/">
+      <img src="./assets/banner.png">
+    </a>
+</div>
 
 <!-- Badges -->
 <div align="left">
