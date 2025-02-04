@@ -38,7 +38,6 @@
       <img src="./assets/banner.png">
     </a>
 </div>
-<br>
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
