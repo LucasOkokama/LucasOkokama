@@ -14,6 +14,20 @@
       > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
+<!-- Banner -->
+<div align="center">
+    <a href="https://lucasokokama.vercel.app/">
+      <img src="./assets/banner.png">
+    </a>
+</div>
+
+<!-- ASCII ART -->
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+  <picture>
+    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
+  </picture>
+</a>
+
 <!-- Badges -->
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
@@ -25,19 +39,6 @@
   <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
 </div>
 
-<!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
-  <picture>
-    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
-  </picture>
-</a>
-
-<!-- Banner -->
-<div align="center">
-    <a href="https://lucasokokama.vercel.app/">
-      <img src="./assets/banner.png">
-    </a>
-</div>
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
