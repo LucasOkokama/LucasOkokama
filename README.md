@@ -33,9 +33,12 @@
 </a>
 
 <!-- Banner -->
-<a href="https://lucasokokama.vercel.app/">
-  <img src="./assets/banner.png">
-</a>
+<div align="center">
+    <a href="https://lucasokokama.vercel.app/">
+      <img src="./assets/banner.png">
+    </a>
+</div>
+<br>
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
