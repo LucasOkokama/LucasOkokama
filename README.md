@@ -274,7 +274,7 @@ JavaScript         6 hrs 55 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         <img src="./assets/projects-previews/portfolio-v1-preview.png" width="100%" height="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="portfolio-v1"/>
       </a>
     </td>
     <td width="50%">
@@ -328,6 +328,22 @@ JavaScript         6 hrs 55 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Fourth row -->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://nationalanimals.vercel.app/">
+        <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/animals-gallery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
+      </a>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
