@@ -134,16 +134,36 @@
     </th>
     <!-- Tools icons -->
     <td>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
+      <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
+      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"/></a><img width="6px" height="1px">
+      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"/></a><img width="6px" height="1px">
+      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=babel" height="45" alt="babel logo"/></a><img width="6px" height="1px">
+      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
+    </td>
+  </tr>
+
+  <tr>
+    <th>
+      <div id="toc">
+        <ul align="center" style="list-style: none">
+          <summary>
+            <h2>
+              Others
+            </h2>
+          </summary>
+        </ul>
+      </div>
+    </th>
+    <!-- Tools icons -->
+    <td>
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"/></a><img width="6px" height="1px">
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="45" alt="pycharm logo"/></a><img width="6px" height="1px">
       <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellij idea logo"/></a><img width="6px" height="1px">
       <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"/></a><img width="6px" height="1px">
       <a href="https://www.gimp.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" height="45" alt="gimp logo"/></a><img width="6px" height="1px">
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"/></a><img width="6px" height="1px">
-      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
-      <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
-      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
-      <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
       <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
