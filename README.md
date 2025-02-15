@@ -137,9 +137,9 @@
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
-      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"/></a><img width="6px" height="1px">
-      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"/></a><img width="6px" height="1px">
-      <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=babel" height="45" alt="babel logo"/></a><img width="6px" height="1px">
+      <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"/></a><img width="6px" height="1px">
+      <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"/></a><img width="6px" height="1px">
+      <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" height="45" alt="babel logo"/></a><img width="6px" height="1px">
       <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
