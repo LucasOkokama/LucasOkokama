@@ -323,6 +323,28 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/LucasOkokama/home-book-app-aspnetmvc">
+        <img src="./assets/projects-previews/home-book-app-aspnetmvc-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/home-book-app-aspnetmvc">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=home-book-app-aspnetmvc&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
+        <img src="./assets/projects-previews/real-time-chat-signalr-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=real-time-chat-signalr&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Fourth row -->
+<table>
+  <tr>
+    <td width="50%">
       <a href="https://github.com/LucasOkokama/anime-statistics-charts">
         <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%" height="100%">
       </a>
@@ -341,7 +363,7 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </tr>
 </table>
 
-<!-- Fourth row -->
+<!-- Fifth row -->
 <table>
   <tr>
     <td width="50%">
