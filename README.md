@@ -18,8 +18,8 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
   <img width="2px">
-  <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
-  <img width="2px">
+  <!-- <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
+  <img width="2px"> -->
   <!-- <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
   <img width="1px"> -->
   <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
@@ -92,6 +92,7 @@
       <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"/></a><img width="6px" height="1px">
       <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"/></a><img width="6px" height="1px">
       <a href="#"><img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"/></a><img width="6px" height="1px"><img width="6px" height="1px">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo"/></a><img width="6px" height="1px"><img width="6px" height="1px">
     </td>
   </tr>
 
@@ -113,7 +114,9 @@
       <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"/></a><img width="6px" height="1px">
       <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"/></a><img width="6px" height="1px">
       <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind logo"/></a><img width="6px" height="1px">
+      <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"/></a><img width="6px" height="1px">
       <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"/></a><img width="6px" height="1px">
+      <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo"/></a><img width="6px" height="1px">
       <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" height="45" alt="flask logo"/></a><img width="6px" height="1px">
       <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45" alt="pandas logo"/></a><img width="6px" height="1px">
       <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="45" alt="plotly logo"/></a><img width="6px" height="1px">
@@ -136,6 +139,8 @@
     <td>
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="45" alt="sqlserver logo"/></a><img width="6px" height="1px">
+      <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo"/></a><img width="6px" height="1px">
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
       <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"/></a><img width="6px" height="1px">
       <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"/></a><img width="6px" height="1px">
@@ -156,7 +161,7 @@
         </ul>
       </div>
     </th>
-    <!-- Tools icons -->
+    <!-- Others icons -->
     <td>
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"/></a><img width="6px" height="1px">
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" height="45" alt="pycharm logo"/></a><img width="6px" height="1px">
@@ -165,6 +170,7 @@
       <a href="https://www.gimp.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" height="45" alt="gimp logo"/></a><img width="6px" height="1px">
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"/></a><img width="6px" height="1px">
       <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"/></a><img width="6px" height="1px">
+      <a href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="eclipse logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 </table>
