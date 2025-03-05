@@ -445,24 +445,8 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasOkokama/simple-crud-springboot-postman">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=simple-crud-springboot-postman&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="simple-crud-springboot-postman"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Second row -->
-<table>
-  <tr>
-    <td width="50%">
       <a href="https://github.com/LucasOkokama/vestibular-extrair-questoes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=vestibular-extrair-questoes&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LucasOkokama/study-simple-wishlist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=study-simple-wishlist&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="study-simple-wishlist"/>
       </a>
     </td>
   </tr>
