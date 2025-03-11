@@ -452,9 +452,12 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </tr>
 </table>
 
+<!--
 <br><br><br><br>
+-->
 
 <!-- Section title -->
+<!--
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -464,13 +467,17 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </summary>
   </ul>
 </div>
+-->
 
 <!-- Gif final page -->
+<!--
 <a href="https://myanimelist.net/anime/269/Bleach">
   <img src="assets/gif-final-page.gif" width="970" alt="anime gif">
 </a>
+-->
 
 <!-- some random Gif's quote -->
+<!--
 <div align="center">
 
 ```diff
@@ -479,3 +486,4 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 </div>
+-->
