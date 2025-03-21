@@ -39,7 +39,6 @@
     </a>
 </div>
 
-
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
   <img height="1" width="1" align="left">
@@ -200,6 +199,7 @@
 <div align="center">
 
 <!--START_SECTION:commit-day-moment-->
+
 **🕒 I'm An Early 🐤**
 
 ```text
@@ -208,7 +208,6 @@
 🌆 Evening                427 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50%
 🌙 Night                  499 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13%
 ```
-
 
 <!--END_SECTION:commit-day-moment-->
 
@@ -347,6 +346,28 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
+      <a href="https://wemage.vercel.app/">
+        <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/pexels-image-search">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://nationalanimals.vercel.app/">
+        <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/animals-gallery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Fifth row -->
+<table>
+  <tr>
+    <td width="50%">
       <a href="https://github.com/LucasOkokama/anime-statistics-charts">
         <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%" height="100%">
       </a>
@@ -361,22 +382,6 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Fifth row -->
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://nationalanimals.vercel.app/">
-        <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%" height="100%">
-      </a>
-      <a href="https://github.com/LucasOkokama/animals-gallery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
-      </a>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
@@ -424,7 +429,14 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
       </a>
     </td>
-    <td width="50%"></td>
+     <td width="50%">
+      <a href="https://www.figma.com/proto/4XOnKMPwSUb3F8eKU6V5j9/Unsplash-Image-Search?node-id=1-2&p=f&t=WyuvdZk1NbAvTCkh-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1">
+        <img src="./assets/projects-previews/pexels-image-search-dsgn-preview.png" width="100%" height="100%">
+      </a>
+      <a href="https://github.com/LucasOkokama/pexels-image-search-dsgn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
+      </a>
+    </td>
   </tr>
 </table>
 
