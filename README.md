@@ -114,6 +114,7 @@
       <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"/></a><img width="6px" height="1px">
       <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"/></a><img width="6px" height="1px">
       <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwind logo"/></a><img width="6px" height="1px">
+      <a href="https://styled-components.com/"><img src="https://skillicons.dev/icons?i=styledcomponents" height="45" alt="styled components logo"/></a><img width="6px" height="1px">
       <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"/></a><img width="6px" height="1px">
       <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"/></a><img width="6px" height="1px">
       <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo"/></a><img width="6px" height="1px">
@@ -143,6 +144,7 @@
       <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo"/></a><img width="6px" height="1px">
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"/></a><img width="6px" height="1px">
       <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"/></a><img width="6px" height="1px">
+      <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"/></a><img width="6px" height="1px">
       <a href="https://webpack.js.org/"><img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"/></a><img width="6px" height="1px">
       <a href="https://babeljs.io/"><img src="https://skillicons.dev/icons?i=babel" height="45" alt="babel logo"/></a><img width="6px" height="1px">
       <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"/></a><img width="6px" height="1px">
