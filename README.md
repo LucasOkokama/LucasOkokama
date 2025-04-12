@@ -166,6 +166,27 @@
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
+              Unit & Integration
+            </h2>
+          </summary>
+        </ul>
+      </div>
+    </th>
+    <!-- Unit Testing icons -->
+    <td>
+      <a href="https://junit.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=junit" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://vitest.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://jestjs.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://docs.pytest.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+    </td>
+  </tr>
+
+  <tr>
+    <th>
+      <div id="toc">
+        <ul align="center" style="list-style: none">
+          <summary>
+            <h2>
               Others
             </h2>
           </summary>
