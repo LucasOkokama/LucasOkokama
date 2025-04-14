@@ -137,6 +137,7 @@
       <a href="https://styled-components.com/"><img src="https://skillicons.dev/icons?i=styledcomponents" height="45" alt="styled components logo"/></a><img width="6px" height="1px">
       <a href="https://pandas.pydata.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="45" alt="pandas logo"/></a><img width="6px" height="1px">
       <a href="https://plotly.com/"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="45" alt="plotly logo"/></a><img width="6px" height="1px">
+      <a href="https://matplotlib.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" height="45" alt="plotly logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
