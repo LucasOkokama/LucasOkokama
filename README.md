@@ -177,9 +177,10 @@
     <td>
       <a href="https://junit.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=junit" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
       <a href="https://vitest.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
-      <a href="https://jestjs.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
-      <a href="https://docs.pytest.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
       <a href="https://www.cypress.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=cypress" height="45" alt="cypress logo"/></a><img width="6px" height="1px">
+      <a href="https://docs.pytest.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://www.selenium.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" height="45" alt="selenium logo"/></a><img width="6px" height="1px">
+      <a href="https://jestjs.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
@@ -367,11 +368,11 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </td>
     <td width="50%">
-      <a href="https://lucasokokama.github.io/EarthWise-website-host/">
-        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+      <a href="https://wemage.vercel.app/">
+        <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasOkokama/EarthWise-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+      <a href="https://github.com/LucasOkokama/pexels-image-search">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
       </a>
     </td>
   </tr>
@@ -389,11 +390,11 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
-        <img src="./assets/projects-previews/real-time-chat-signalr-preview.png" width="100%" height="100%">
+      <a href="https://lucasokokama.github.io/EarthWise-website-host/">
+        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=real-time-chat-signalr&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
+      <a href="https://github.com/LucasOkokama/EarthWise-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
       </a>
     </td>
   </tr>
@@ -403,11 +404,11 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <table>
   <tr>
     <td width="50%">
-      <a href="https://wemage.vercel.app/">
-        <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%" height="100%">
+      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
+        <img src="./assets/projects-previews/real-time-chat-signalr-preview.png" width="100%" height="100%">
       </a>
-      <a href="https://github.com/LucasOkokama/pexels-image-search">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
+      <a href="https://github.com/LucasOkokama/real-time-chat-signalr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=real-time-chat-signalr&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
       </a>
     </td>
     <td width="50%">
