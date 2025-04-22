@@ -179,6 +179,7 @@
       <a href="https://vitest.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
       <a href="https://jestjs.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
       <a href="https://docs.pytest.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
+      <a href="https://www.cypress.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=cypress" height="45" alt="cypress logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
