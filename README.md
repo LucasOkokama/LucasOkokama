@@ -483,6 +483,7 @@ Sass               6 hrs 31 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://github.com/LucasOkokama/api-rest-graphql">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=api-rest-graphql&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="api-rest-graphql"/>
       </a>
     </td>
     <td width="50%">
