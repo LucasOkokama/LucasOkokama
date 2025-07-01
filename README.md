@@ -262,7 +262,7 @@
 <!--START_SECTION:langTime-->
 
 ```rust
-From: 27 October 2024 - To: 29 June 2025
+From: 27 October 2024 - To: 01 July 2025
 
 Total Time: 680 hrs 37 mins
 
