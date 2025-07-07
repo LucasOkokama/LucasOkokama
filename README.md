@@ -428,7 +428,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://www.figma.com/proto/uGSOYUu6wNWY2nGpwLoBvn/Portfolio?node-id=1-2&p=f&t=hIAqQQhPsH0zjI49-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
-        <img src="./assets/projects-previews/portfolio-v1-dsgn-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/portfolio-v1-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1-dsgn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="portfolio-v1-dsgn" />
@@ -436,7 +436,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
     <td width="50%">
       <a href="https://www.figma.com/proto/9xlVkFh4w7eP8Z3GWelY2q/Anime-Blog-Review?node-id=1-2&t=XBaEhW2ueDgbF9l7-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1">
-        <img src="./assets/projects-previews/anime-blog-review-dsgn-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/anime-blog-review-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-blog-review-dsgn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
@@ -450,7 +450,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://www.figma.com/proto/JKhN9qtK5zfoH0lPQIZcJ6/VinhoEcommerce">
-        <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/wine-store-dsgn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
@@ -458,7 +458,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
      <td width="50%">
       <a href="https://www.figma.com/proto/4XOnKMPwSUb3F8eKU6V5j9/Unsplash-Image-Search?node-id=1-2&p=f&t=WyuvdZk1NbAvTCkh-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1">
-        <img src="./assets/projects-previews/pexels-image-search-dsgn-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/pexels-image-search-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/pexels-image-search-dsgn">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="pexels-image-search-dsgn" />
