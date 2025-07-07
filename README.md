@@ -331,7 +331,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://lucasokokama.vercel.app/">
-        <img src="./assets/projects-previews/portfolio-v1-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/portfolio-v1-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="portfolio-v1"/>
@@ -339,7 +339,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
     <td width="50%">
       <a href="https://korosenku.vercel.app">
-        <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-blog-review">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
@@ -353,7 +353,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://github.com/LucasKazuhiro/loja-vinho">
-        <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/loja-vinho">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
@@ -361,7 +361,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
     <td width="50%">
       <a href="https://wemage.vercel.app/">
-        <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/pexels-image-search">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="pexels-image-search"/>
@@ -375,7 +375,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://github.com/LucasOkokama/anime-statistics-charts">
-        <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
@@ -383,7 +383,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
     <td width="50%">
       <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
-        <img src="./assets/projects-previews/filmes-statistics-charts-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/filmes-statistics-charts-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
@@ -397,7 +397,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <tr>
     <td width="50%">
       <a href="https://lucasokokama.github.io/EarthWise-website-host/">
-        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/EarthWise-website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
@@ -405,7 +405,7 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </td>
     <td width="50%">
       <a href="https://nationalanimals.vercel.app/">
-        <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%" height="100%">
+        <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/animals-gallery">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
