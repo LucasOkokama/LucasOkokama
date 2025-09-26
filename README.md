@@ -25,19 +25,19 @@
   <!-- <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a> -->
 <!-- </div> -->
 
-<!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
-  <picture>
-    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
-  </picture>
-</a>
-
 <!-- Banner -->
 <div align="center">
     <a href="https://lucasokokama.vercel.app/">
       <img src="./assets/banner.png">
     </a>
 </div>
+
+<!-- ASCII ART -->
+<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+  <picture>
+    <img alt="ascii-profile" src="assets/header-ascii-art.svg" width="100%">
+  </picture>
+</a>
 
 <!--  Music  ⸜(｡˃ ᵕ ˂ )⸝♡  -->
 <div>
