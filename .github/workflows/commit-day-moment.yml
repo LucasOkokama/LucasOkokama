@@ -1,9 +1,9 @@
 name: Generate commit by moment of the day
 
 on:
-  schedule:
+  # schedule:
     # runs at 7 AM BRT (São Paulo Time)
-    - cron: "0 10 * * *"
+    # - cron: "0 10 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
