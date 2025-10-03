@@ -247,16 +247,6 @@
 <div align="center">
 
 <!--START_SECTION:commit-day-moment-->
-**🕒 I'm An Early 🐤**
-
-```text
-🌅 Morning                592 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76%
-🌞 Daytime                774 commits         ███████░░░░░░░░░░░░░░░░░░   29.76%
-🌆 Evening                506 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45%
-🌙 Night                  729 commits         ███████░░░░░░░░░░░░░░░░░░   28.03%
-```
-
-
 <!--END_SECTION:commit-day-moment-->
 
 <!--START_SECTION:langTime-->
