@@ -27,5 +27,5 @@ jobs:
           # STOP_AT_OTHER: true
           IGNORED_LANGUAGES: Binary YAML JSON TOML Properties "Java Properties" Git "GitIgnore file" "Git Config" Other
           COMMIT_MESSAGE: Updated lang-time metrics
-          COMMITTER_NAME: LucasKazuhiro
-          COMMITTER_EMAIL: lucaslko429@gmail.com
+          # COMMITTER_NAME: LucasKazuhiro
+          # COMMITTER_EMAIL: lucaslko429@gmail.com
