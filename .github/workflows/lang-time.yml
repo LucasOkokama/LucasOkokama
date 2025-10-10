@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          SECTION_NAME: lang-time
+          SECTION_NAME: langTime
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: rust
           TIME_RANGE: all_time
