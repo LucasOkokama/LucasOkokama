@@ -14,16 +14,6 @@
       > rahul-jha98         : https://github.com/rahul-jha98/github-stats-transparent
 -->
 
-<!-- Badges -->
-<!-- <div align="left"> -->
-  <!-- <a href="https://www.linkedin.com/in/lucas-okokama/"><img src="https://img.shields.io/badge/Linkedin-166f98?style=for-the-badge&logo=linkedin" alt="linkedin icon and"></a>
-  <img width="2px"> -->
-  <!-- <a href="https://korosenku.vercel.app/"><img src="https://img.shields.io/badge/Anime_Blog-yellow?style=for-the-badge&logo=riseup&logoColor=fae55a&labelColor=b52b5d&color=cc3b6e" alt="anime blog"></a>
-  <img width="2px"> -->
-  <!-- <img src="https://vbr.nathanchung.dev/badge?page_id=LucasKazuhiroVisitorBadge&style=for-the-badge&logo=GitHub&text=Views&lcolor=6b068c&color=8013a4" alt="number of visitors "/>
-  <img width="1px"> -->
-  <!-- <a href="https://wakatime.com/@LucasOkokama"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a> -->
-<!-- </div> -->
 
 <!-- Banner -->
 <div align="center">
@@ -64,8 +54,6 @@
   </ul>
 </div>
 
-<!-- Profile stats with TV & Dithering effect -->
-<!-- <img src="https://pixel-profile.vercel.app/api/github-stats?username=LucasKazuhiro&screen_effect=true&dithering=true"> -->
 
 <!-- Table Icons -->
 <table>
@@ -275,14 +263,6 @@ Sass               6 hrs 31 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--START_SECTION:editor-time-->
 <!--END_SECTION:editor-time-->
-
-<!-- Leetcode & Streak  -->
-<div align="center">
-  <!--
-  <img src="https://leetcard.jacoblin.cool/Lucas_Kazuhiro?theme=nord&font=Farro&border=0&radius=4" height="167" alt="LeetCode Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasOkokama&hide_border=true&mode=weekly&date_format=M%20j%5B%2C%20Y%5D&theme=nord&&ring=ff3068&fire=ff3068&sideNums=ff3068&currStreakNum=ff7100&currStreakLabel=ff7100&sideLabels=ff7100&dates=f2d91f" height="167" alt="streak graph"  />
-  -->
-</div>
 
 </div>
 
