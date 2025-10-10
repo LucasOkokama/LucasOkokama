@@ -1,9 +1,9 @@
 name: Generate time per editor
 
 on:
-  schedule:
+  # schedule:
     # runs at 4:40 AM BRT (São Paulo Time)
-    - cron: "40 7 * * *"
+    # - cron: "40 7 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
@@ -30,5 +30,5 @@ jobs:
           SHOW_LAST_UPDATE: "false" # show last update time
           PROGRESS_BAR_VERSION: 1
           COMMIT_MESSAGE: Updated editor-time metrics
-          COMMIT_USER_NAME: LucasKazuhiro
-          COMMIT_USER_EMAIL: lucaslko429@gmail.com
+          # COMMIT_USER_NAME: LucasKazuhiro
+          # COMMIT_USER_EMAIL: lucaslko429@gmail.com
