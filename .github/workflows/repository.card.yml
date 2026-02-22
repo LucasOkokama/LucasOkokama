@@ -31,3 +31,60 @@ jobs:
           git add assets/repository-cards/*.svg
           git commit -m "Update repository cards" || exit 0
           git push
+
+
+name: Generate repository cards
+
+on:
+  schedule:
+    # runs at 5:40 AM BRT (São Paulo Time)
+    - cron: "40 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate repository cards
+        run: |
+          mkdir -p assets/repository-cards
+
+          REPOS=(
+            "anime-blog-review"
+            "loja-vinho"
+            "pexels-image-search"
+            "anime-statistics-charts"
+            "filmes-statistics-charts"
+            "EarthWise-website"
+            "animals-gallery"
+          )
+
+          for repo in "${REPOS[@]}"
+          do
+            npx github-readme-stats \
+              --card=pin \
+              --username=${{ github.repository_owner }} \
+              --repo=$repo \
+              --output=assets/repository-cards/repocard-$repo.svg \
+              --hide-border \
+              --bg-color=141b24 \
+              --title-color=ca7439 \
+              --icon-color=888888 \
+              --text-color=888888 \
+              --description-lines=3
+          done
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/repository-cards/*.svg || true
+          git commit -m "Update repository cards" || exit 0
+          git push
