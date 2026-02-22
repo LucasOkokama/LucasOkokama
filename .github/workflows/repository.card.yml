@@ -16,40 +16,74 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate repository cards
-        run: |
-          mkdir -p assets/repository-cards
+      - name: Generate portfolio-v1 card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-portfolio-v1.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-          REPOS=(
-            "anime-blog-review"
-            "loja-vinho"
-            "pexels-image-search"
-            "anime-statistics-charts"
-            "filmes-statistics-charts"
-            "EarthWise-website"
-            "animals-gallery"
-          )
+      - name: Generate anime-blog-review card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-anime-blog-review.svg
+          token: ${{ secrets.GH_TOKEN }}
 
-          for repo in "${REPOS[@]}"
-          do
-            npx github-readme-stats \
-              --card=pin \
-              --username=${{ github.repository_owner }} \
-              --repo=$repo \
-              --output=assets/repository-cards/repocard-$repo.svg \
-              --hide-border \
-              --bg-color=141b24 \
-              --title-color=ca7439 \
-              --icon-color=888888 \
-              --text-color=888888 \
-              --description-lines=3
-          done
+      - name: Generate loja-vinho card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-loja-vinho.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate pexels-image-search card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-pexels-image-search.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate anime-statistics-charts card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-anime-statistics-charts.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate filmes-statistics-charts card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-filmes-statistics-charts.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate EarthWise-website card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-EarthWise-website.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate animals-gallery card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-animals-gallery.svg
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add assets/repository-cards/*.svg || true
+          git add assets/repository-cards/*.svg
           git commit -m "Update repository cards" || exit 0
           git push
