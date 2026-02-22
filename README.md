@@ -415,7 +415,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/portfolio-v1-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="portfolio-v1-dsgn" />
+        <img src="./assets/repository-cards/repocard-portfolio-v1-dsgn.svg" alt="portfolio-v1-dsgn"/>
       </a>
     </td>
     <td width="50%">
@@ -423,7 +423,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/anime-blog-review-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-blog-review-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review-dsgn" />
+        <img src="./assets/repository-cards/repocard-anime-blog-review-dsgn.svg" alt="anime-blog-review-dsgn"/>
       </a>
     </td>
   </tr>
@@ -437,7 +437,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/wine-store-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/wine-store-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=wine-store-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="wine-store-dsgn" />
+        <img src="./assets/repository-cards/repocard-wine-store-dsgn.svg" alt="wine-store-dsgn"/>
       </a>
     </td>
      <td width="50%">
@@ -445,7 +445,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/pexels-image-search-dsgn-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/pexels-image-search-dsgn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search-dsgn&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="pexels-image-search-dsgn" />
+        <img src="./assets/repository-cards/repocard-pexels-image-search-dsgn.svg" alt="pexels-image-search-dsgn"/>
       </a>
     </td>
   </tr>
@@ -467,12 +467,12 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <tr>
     <td width="50%">
       <a href="https://github.com/LucasOkokama/api-rest-graphql">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=api-rest-graphql&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="api-rest-graphql"/>
+          <img src="./assets/repository-cards/repocard-api-rest-graphql.svg" alt="api-rest-graphql"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/LucasOkokama/unit-integration-test">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=unit-integration-test&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="unit-integration-test"/>
+        <img src="./assets/repository-cards/repocard-unit-integration-test.svg" alt="unit-integration-test"/>
       </a>
     </td>
   </tr>
