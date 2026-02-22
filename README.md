@@ -318,7 +318,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/portfolio-v1-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/portfolio-v1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=portfolio-v1&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="portfolio-v1"/>
+        <img src="./assets/repository-cards/repocard-portfolio-v1.svg" alt="portfolio-v1"/>
       </a>
     </td>
     <td width="50%">
@@ -326,7 +326,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/anime-blog-review-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-blog-review">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-blog-review&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-blog-review"/>
+        <img src="./assets/repository-cards/repocard-anime-blog-review.svg" alt="anime-blog-review"/>
       </a>
     </td>
   </tr>
@@ -340,7 +340,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/loja-vinho-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/loja-vinho">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=loja-vinho&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="loja-vinho"/>
+        <img src="./assets/repository-cards/repocard-loja-vinho.svg" alt="loja-vinho"/>
       </a>
     </td>
     <td width="50%">
@@ -348,7 +348,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/pexels-image-search-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/pexels-image-search">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=pexels-image-search&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="pexels-image-search"/>
+        <img src="./assets/repository-cards/repocard-pexels-image-search.svg" alt="pexels-image-search"/>
       </a>
     </td>
   </tr>
@@ -362,7 +362,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/anime-statistics-charts-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/anime-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=anime-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="anime-statistics-charts"/>
+        <img src="./assets/repository-cards/repocard-anime-statistics-charts.svg" alt="anime-statistics-charts"/>
       </a>
     </td>
     <td width="50%">
@@ -370,7 +370,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/filmes-statistics-charts-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/filmes-statistics-charts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=filmes-statistics-charts&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="filmes-statistics-charts"/>
+        <img src="./assets/repository-cards/repocard-filmes-statistics-charts.svg" alt="filmes-statistics-charts"/>
       </a>
     </td>
   </tr>
@@ -384,7 +384,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/EarthWise-website-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/EarthWise-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=EarthWise-website&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="EarthWise-website"/>
+        <img src="./assets/repository-cards/repocard-EarthWise-website.svg" alt="EarthWise-website"/>
       </a>
     </td>
     <td width="50%">
@@ -392,7 +392,7 @@ Markdown                   16 hrs 20 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         <img src="./assets/projects-previews/animals-gallery-preview.png" width="100%">
       </a>
       <a href="https://github.com/LucasOkokama/animals-gallery">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasOkokama&repo=animals-gallery&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3" alt="animals-gallery"/>
+        <img src="./assets/repository-cards/repocard-animals-gallery.svg" alt="animals-gallery"/>
       </a>
     </td>
 </table>
