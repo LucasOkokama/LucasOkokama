@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=LucasOkokama&repo=portfolio-v1
+          options: username=LucasOkokama&repo=portfolio-v1&hide_border=true
           path: assets/repository-cards/repocard-portfolio-v1.svg
           token: ${{ secrets.GH_TOKEN }}
 
