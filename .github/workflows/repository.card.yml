@@ -112,20 +112,12 @@ jobs:
           path: assets/repository-cards/repocard-pexels-image-search-dsgn.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate api-rest-graphql card
+      - name: Generate setup-tweaks card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=api-rest-graphql&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
-          path: assets/repository-cards/repocard-api-rest-graphql.svg
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Generate unit-integration-test card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=unit-integration-test&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
-          path: assets/repository-cards/repocard-unit-integration-test.svg
+          options: username=${{ github.repository_owner }}&repo=setup-tweaks&hide_border=true&bg_color=141b24&title_color=ca7439&icon_color=888888&text_color=888888&description_lines_count=3
+          path: assets/repository-cards/repocard-setup-tweaks.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
