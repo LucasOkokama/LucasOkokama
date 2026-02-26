@@ -457,7 +457,7 @@ Markdown                   21 hrs 33 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <h2>🚀 Learnings (experimental stuff)</h2>
+      <h2>🧭 Explorations</h2>
     </summary>
   </ul>
 </div>
@@ -466,13 +466,8 @@ Markdown                   21 hrs 33 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/LucasOkokama/api-rest-graphql">
-          <img src="./assets/repository-cards/repocard-api-rest-graphql.svg" alt="api-rest-graphql"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LucasOkokama/unit-integration-test">
-        <img src="./assets/repository-cards/repocard-unit-integration-test.svg" alt="unit-integration-test"/>
+      <a href="https://github.com/LucasOkokama/setup-tweaks">
+          <img src="./assets/repository-cards/repocard-setup-tweaks.svg" alt="setup-tweaks"/>
       </a>
     </td>
   </tr>
